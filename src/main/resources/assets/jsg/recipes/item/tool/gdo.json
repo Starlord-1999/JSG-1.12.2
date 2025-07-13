@@ -1,0 +1,39 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SGS",
+		"NIN",
+		"NYN"
+	],
+
+	"key": {
+		"S": {
+			"item": "minecraft:stone_button"
+		},
+
+		"G": {
+			"type": "forge:ore_dict",
+      			"ore": "paneGlass"
+		},
+
+		"N": {
+			"type": "forge:ore_dict",
+      			"ore": "ingotIron"
+		},
+
+		"I": {
+			"type": "forge:ore_dict",
+      			"ore": "dustRedstone"
+		},
+
+		"Y": {
+			"type": "forge:ore_dict",
+      			"ore": "gearTitanium"
+		}
+	},
+
+	"result": {
+		"item": "jsg:gdo",
+		"count": 1
+	}
+}

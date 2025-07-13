@@ -1,0 +1,27 @@
+{
+  "display": {
+    "title": {
+      "translate": "advancement.machines.title",
+      "color": "dark_aqua",
+      "bold": true,
+      "underlined": false,
+      "strikethrough": false
+    },
+    "description": {
+      "translate": "advancement.machines.desc"
+    },
+    "icon": {
+      "item": "jsg:gear_titanium"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "jsg:root",
+  "criteria": {
+    "test": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

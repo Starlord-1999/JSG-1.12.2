@@ -1,0 +1,43 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FGF",
+		"BAR",
+		"OIO"
+	],
+	
+	"key": {
+	    "G": {
+            "item": "minecraft:glass_pane"
+        },
+	
+		"O": {
+			"item": "jsg:naquadah_block"
+		},
+	
+		"F": {
+			"item": "jsg:gear_naquadah"
+		},
+		
+		"A": {
+			"item": "minecraft:ghast_tear"
+		},
+		
+		"R": {
+			"item": "jsg:crystal_red"
+		},
+		
+		"B": {
+			"item": "jsg:crystal_blue"
+		},
+		
+		"I": {
+			"item": "jsg:circuit_control_naquadah"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:beamer_block",
+		"count": 1
+	}
+}

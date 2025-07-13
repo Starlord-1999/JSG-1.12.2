@@ -1,0 +1,62 @@
+{
+  "pools": [
+    {
+      "name": "zpm",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "jsg:zpm",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "rolls": 25,
+      "entries": [
+        {
+          "type": "item",
+          "name": "jsg:trinium_ingot",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "jsg:titanium_ingot",
+          "weight": 15
+        },
+        {
+          "type": "item",
+          "name": "jsg:capacitor_block",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:web",
+          "weight": 35
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cobblestone",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "sus_page",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "jsg:page_notebook",
+          "data": 1,
+          "weight": 50
+        },
+        {
+          "type": "empty",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}

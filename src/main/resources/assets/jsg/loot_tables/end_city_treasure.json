@@ -1,0 +1,35 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "jsg:universe_dialer",
+                    "weight": 25
+                },
+                {
+                    "type": "empty",
+                    "weight": 75
+                }
+            ]
+        },
+        {
+            "name": "sus_page",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "jsg:page_notebook",
+                    "data": 1,
+                    "weight": 50
+                },
+                {
+                    "type": "empty",
+                    "weight": 50
+                }
+            ]
+        }
+    ]
+}

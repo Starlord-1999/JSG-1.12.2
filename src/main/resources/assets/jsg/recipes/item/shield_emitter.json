@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" D ",
+		"BCA",
+		"FEF"
+	],
+	
+	"key": {
+		"A": {
+			"item": "jsg:circuit_control_crystal"
+		},
+		"B": {
+			"item": "jsg:circuit_control_naquadah"
+		},
+		"C": {
+			"type" : "forge:ore_dict",
+			"ore": "gearTrinium"
+		},
+		"D": {
+			"item": "jsg:crystal_white"
+		},
+		"E": {
+			"item": "jsg:crystal_ender"
+		},
+		"F": {
+			"item": "minecraft:redstone"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:shield_emitter",
+		"count": 1
+	}
+}

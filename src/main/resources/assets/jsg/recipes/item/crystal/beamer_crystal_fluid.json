@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" B ",
+		" C ",
+		" B "
+	],
+	
+	"key": {
+		"C": {
+			"item": "jsg:circuit_control_crystal"
+		},
+		
+		"B": {
+			"item": "jsg:crystal_blue"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:beamer_crystal_fluid",
+		"count": 1
+	}
+}

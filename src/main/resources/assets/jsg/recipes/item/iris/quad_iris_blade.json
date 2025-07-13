@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "jsg:iris_blade"
+		},
+		{
+			"item": "jsg:iris_blade"
+		},
+		{
+			"item": "jsg:iris_blade"
+		},
+		{
+			"item": "jsg:iris_blade"
+		}
+	],
+	
+	"result": {
+		"item": "jsg:quad_iris_blade",
+		"count": 1
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "forge:ore_dict",
+			"ore": "ingotTitanium"
+		},
+		{
+			"item": "jsg:hammer"
+		}
+	],
+	"result": {
+		"item": "jsg:plate_titanium",
+		"count": 1
+	}
+}

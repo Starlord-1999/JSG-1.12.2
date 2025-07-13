@@ -1,0 +1,101 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 12,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "jsg:naquadah_alloy",
+                    "weight": 8
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:titanium_ingot",
+                    "weight": 15
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:titanium_dust",
+                    "weight": 26
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:titanium_nugget",
+                    "weight": 21
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:staff",
+                    "weight": 2
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:zat",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:trinium_ingot",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_milkyway",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_pegasus",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_universe",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_goauld",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_ori",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "jsg:schematic_ancient",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:web",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:cobblestone",
+                    "weight": 4
+                }
+            ]
+        },
+        {
+            "name": "sus_page",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "jsg:page_notebook",
+                    "data": 1,
+                    "weight": 50
+                },
+                {
+                    "type": "empty",
+                    "weight": 50
+                }
+            ]
+        }
+    ]
+}

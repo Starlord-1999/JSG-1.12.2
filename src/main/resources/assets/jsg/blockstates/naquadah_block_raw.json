@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "jsg:naquadah_block_raw"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}

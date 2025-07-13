@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IBP",
+		"ITI",
+		"PWI"
+	],
+	
+	"key": {
+		"B": {
+			"item": "minecraft:iron_bars"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"P": {
+			"type" : "forge:ore_dict",
+			"ore": "plateTitanium"
+		},
+		"T": {
+			"item": "minecraft:redstone_torch"
+		},
+		"W": {
+			"item": "jsg:wrench"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:stargate_orlin_member_block"
+	}
+}

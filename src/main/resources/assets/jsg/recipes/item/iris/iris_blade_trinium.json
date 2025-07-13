@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TT ",
+		" TT",
+		"  T"
+	],
+	
+	"key": {
+		"T": {
+			"type" : "forge:ore_dict",
+			"ore": "plateTrinium"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:iris_blade_trinium",
+		"count": 1
+	}
+}

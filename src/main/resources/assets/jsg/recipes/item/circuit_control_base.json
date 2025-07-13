@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" Y ",
+		"BGE",
+		" R "
+	],
+	
+	"key": {
+		"Y": {
+			"item": "jsg:crystal_yellow"
+		},
+
+		"B": {
+			"item": "jsg:crystal_blue"
+		},
+
+		"G": {
+			"item": "minecraft:glass_pane"
+		},
+
+		"E": {
+			"item": "jsg:crystal_ender"
+		},
+		
+		"R": {
+			"item": "jsg:crystal_red"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:circuit_control_base",
+		"count": 1
+	}
+}

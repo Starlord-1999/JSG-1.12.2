@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"type" : "forge:ore_dict",
+			"ore": "ingotNaquadahRaw"
+		}
+	],
+	"result": {
+		"item": "jsg:naquadah_raw_nugget",
+		"count": 9
+	}
+}
+

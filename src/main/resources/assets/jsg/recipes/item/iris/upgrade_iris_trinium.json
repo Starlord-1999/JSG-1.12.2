@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"RTW",
+		"TTT",
+		"WTR"
+	],
+	
+	"key": {
+		"T": {
+			"item": "jsg:quad_iris_blade_trinium"
+		},
+		"W": {
+			"type" : "forge:ore_dict",
+			"ore": "gearTrinium"
+		},
+		"R": {
+			"item": "minecraft:redstone_block"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:upgrade_iris_trinium",
+		"count": 1
+	}
+}

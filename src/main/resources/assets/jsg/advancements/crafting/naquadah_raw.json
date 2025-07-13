@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": {
+      "translate": "advancement.naquadah_raw.title",
+      "color": "dark_green",
+      "bold": true,
+      "underlined": false,
+      "strikethrough": false
+    },
+    "description": {
+      "translate": "advancement.naquadah_raw.desc"
+    },
+    "icon": {
+      "item": "jsg:naquadah_alloy_raw"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "jsg:crafting/titanium",
+  "criteria": {
+    "test": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "type": "forge:ore_dict",
+            "ore": "ingotNaquadahRaw"
+          }
+        ]
+      }
+    }
+  }
+}

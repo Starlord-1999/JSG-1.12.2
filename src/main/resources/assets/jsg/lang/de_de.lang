@@ -1,0 +1,892 @@
+# itemGroups - creative tabs
+itemGroup.jsg_gates=JSG: Gates
+itemGroup.jsg_items=JSG: Items
+itemGroup.jsg_rings=JSG: Ringe
+itemGroup.jsg_ores=JSG: Erze
+itemGroup.jsg_energy=JSG: Energie
+itemGroup.jsg_tools=JSG: Werkzeuge
+itemGroup.jsg_props=JSG: Props
+itemGroup.jsg_machines=JSG: Maschinen
+itemGroup.jsg_weapons=JSG: Waffen
+itemGroup.jsg_records=JSG: Musik
+
+# config file
+config.jsg.general=General Config
+config.jsg.general.tooltip=Konfiguration verschiedener Dinge
+
+config.jsg.zpm=ZPM Config
+config.jsg.zpm.tooltip=Konfiguration von ZPM und ZPM-Hubs
+
+config.jsg.stargates=Stargates Config
+config.jsg.stargates.tooltip=Konfiguration von Stargates
+
+config.jsg.rings=Transport Rings Config
+config.jsg.rings.tooltip=Konfiguration von Transportringen
+
+config.jsg.dhd=DHD Config
+config.jsg.dhd.tooltip=Konfiguration von DHD und Universe Dialer
+
+config.jsg.beamers=Beamers Config
+config.jsg.beamers.tooltip=Konfiguration von Beamer
+
+config.jsg.worldgen=World Generation Config
+config.jsg.worldgen.tooltip=Konfiguration von World-Gen und Mysteriösen Seiten
+
+config.jsg.items=Items Config
+config.jsg.items.tooltip=Konfiguration von Gegenständen, Rüstungen und Waffen
+
+# Sound category
+soundCategory.jsg=Just Stargate Mod
+
+# -------------------
+# ADVANCEMENTS
+
+advancement.machines.title=Einige Zahnräder und Schrauben
+advancement.machines.desc=Kategorie voller Maschinenkram
+
+advancement.wormhole_go.title=Welches Wurmloch? Und warum Wurm?
+advancement.wormhole_go.desc=Gehe durch den Ereignishorizont eines Sternentores
+
+advancement.merged_orlin.title=Du brauchst einen neuen Toaster
+advancement.merged_orlin.desc=Baue ein Orlin-Gate
+
+advancement.merged_milkyway.title=Pyramide mit der Sonne direkt darüber
+advancement.merged_milkyway.desc=Baue ein Sternentor der Milchstraße
+
+advancement.merged_pegasus.title=Jumper ist nicht enthalten
+advancement.merged_pegasus.desc=Baue ein Pegasus-Sternentor
+
+advancement.merged_universe.title=Antik, in beiden Bedeutungen
+advancement.merged_universe.desc=Baue das älteste Sternentor des Universums
+
+advancement.chevron_seven_locked.title=Chevron 7 fixiert!
+advancement.chevron_seven_locked.desc=Vorhandene 7-Zeichen-Adresse anwählen
+
+advancement.chevron_eight_locked.title=Die Adresse ist nicht falsch, aber unvollständig.
+advancement.chevron_eight_locked.desc=Vorhandene 8-Zeichen-Adresse anwählen
+
+advancement.chevron_nine_locked.title=Mehrere Milliarden Lichtjahre von zu Hause entfernt
+advancement.chevron_nine_locked.desc=Vorhandene 9-Zeichen-Adresse anwählen
+
+advancement.iris_impact.title=Klopf, klopf... Wer ist da?
+advancement.iris_impact.desc=Sehen Sie, wie ein Gegenstand die Iris getroffen hat
+
+advancement.gdo_used.title=Code akzeptiert - Öffnende Iris
+advancement.gdo_used.desc=Verwende ein GDO um den Code zu senden
+
+advancement.kawoosh_cremation.title=Flucht aus Hadante
+advancement.kawoosh_cremation.desc=Erleben Sie die Kawoosh-Einäscherung an sich selbst
+
+advancement.first_zpm.title=Was? ZPM, er ist kanadier.
+advancement.first_zpm.desc=Erhalte ein ZPM
+
+advancement.three_zpms.title=Ich traue meinen Augen nicht: Drei ZPMs
+advancement.three_zpms.desc=Verwenden Sie den ZPM-Hub mit drei ZPMs
+
+advancement.zpm_slot.title=Oh yeah
+advancement.zpm_slot.desc=Verwenden Sie den ZPM-Steckplatz
+
+advancement.upgrade_shield.title=Energieverschwendung, Energieverschwendung...
+advancement.upgrade_shield.desc=Erhalte den Stargate-Schild
+
+advancement.beamer.title=Transporter wird strahlen
+advancement.beamer.desc=Holen Sie sich einen Transporter
+
+advancement.titanium.title=Werde hart und zäh
+advancement.titanium.desc=Besorge dir einen Titanbarren
+
+advancement.naquadah_raw.title=Naqua... was?
+advancement.naquadah_raw.desc=Stelle eine rohe Naquadah-Legierung her
+
+advancement.naquadah_alloy.title=Der beste Supraleiter
+advancement.naquadah_alloy.desc=Stelle eine Naquadah-Legierung her
+
+advancement.trinium.title=Hast du Xe´ls und T´akaya gefragt?!
+advancement.trinium.desc=Erhalte einen Triniumbarren
+
+advancement.unstable_eh_survive.title=Einen Moment lang dachte ich, wir wären in Schwierigkeiten
+advancement.unstable_eh_survive.desc=Betrete ein instabiles Wurmloch und überlebe
+
+advancement.tokra_crystal.title=Sie leben unter der Erde
+advancement.tokra_crystal.desc=Erhalte Tokra-Kristalle
+
+advancement.beamer_crystal_laser.title=Ein Teilchenbeschleuniger, der durch ein Stargate schießt?
+advancement.beamer_crystal_laser.desc=Besorge einen Transporter Laserkristall
+
+advancement.transportrings_goauld.title=Aufzüge sind langweilig
+advancement.transportrings_goauld.desc=Benutzt Goa'uld-Transportringe
+
+advancement.transportrings_ori.title=Ebenen von Celestis
+advancement.transportrings_ori.desc=Verwenden Sie Ori-Transportringe
+
+advancement.transportrings_ancient.title=Das Original könnte man sagen
+advancement.transportrings_ancient.desc=Verwenden Sie Antiker-Transportringe
+
+advancement.assembler.title=Antike Fabrik
+advancement.assembler.desc=Erstelle einen Antiken Monteur
+
+advancement.chamber.title=Wachse, Kristall, wachse!
+advancement.chamber.desc=Stelle eine Kristallkammer her
+
+advancement.pcb.title=Technologie auf Kristallbasis
+advancement.pcb.desc=Stelle einen Leiterplattenhersteller her
+
+advancement.ore_washing.title=Erze reinigen
+advancement.ore_washing.desc=Stelle eine Erzwaschmaschine her
+
+advancement.chemicals.title=Ist es Janus Geheimlabor?
+advancement.chemicals.desc=Baue ein antikes Chemielabor
+
+advancement.refined_naquadah.title=Nun, das ist ein HEIßES Zeug
+advancement.refined_naquadah.desc=Erhalte ein raffiniertes flüssiges Naquadah
+
+advancement.myst_page.title=Abydos-Kartusche
+advancement.myst_page.desc=Verwenden Sie die mysteriöse Seite
+
+# -------------------
+
+# sound categories
+soundCategory.jsg_sounds=Just Stargate Mod
+
+# -------------------
+# ITEMS
+
+# records
+item.jsg.record_sgc.name=SG-1 Theme
+item.jsg.record_atlantis.name=Atlantis Theme
+item.jsg.record_destiny.name=Destiny Theme
+item.jsg.record_origins.name=Origins Theme
+item.jsg.record_elevator.name=Wartemusik
+
+# iris
+item.jsg.iris_blade.name=Irisscheibe (Titanium)
+item.jsg.iris_blade_trinium.name=Irisscheibe (Trinium)
+item.jsg.quad_iris_blade.name=4er Irisscheibe (Titanium)
+item.jsg.quad_iris_blade_trinium.name=4er Irisscheibe (Trinium)
+item.jsg.upgrade_iris.name=Iris Upgrade (Titanium)
+item.jsg.upgrade_iris_trinium.name=Iris Upgrade (Trinium)
+item.jsg.upgrade_iris_creative.name=Iris Upgrade (Creative)
+item.jsg.iris.tooltip.integrity=Integrität:
+item.jsg.iris.tooltip.durability=Haltbarkeit:
+item.jsg.shield_emitter.name=Schild Emitter
+item.jsg.upgrade_shield.name=Schild Upgrade
+
+# ingots
+item.jsg.trinium_impure.name=Unreines Triniumerz
+item.jsg.trinium_purified.name=Gereinigtes Triniumerz
+item.jsg.trinium_raw.name=Rohes Triniumerz
+item.jsg.trinium_ingot.name=Triniumbarren
+item.jsg.trinium_dust.name=Triniumstaub
+item.jsg.trinium_nugget.name=Trinium-Nugget
+
+item.jsg.titanium_impure.name=Unreines Titanerz
+item.jsg.titanium_purified.name=Gereinigtes Titanerz
+item.jsg.titanium_raw.name=Rohes Titanerz
+item.jsg.titanium_ingot.name=Titanbarren
+item.jsg.titanium_dust.name=Titanstaub
+item.jsg.titanium_nugget.name=Titan-Nugget
+
+item.jsg.naquadah_impure.name=Unreines Naquadaherz
+item.jsg.naquadah_purified.name=Gereinigtes Naquadaherz
+item.jsg.naquadah_raw.name=Rohes Naquadaherz
+item.jsg.naquadah_alloy_raw.name=Roher Naquadahlegierungsbarren
+item.jsg.naquadah_raw_dust.name=Roher Naquadahstaub
+item.jsg.naquadah_raw_nugget.name=Naquadahnugget (roh)
+
+item.jsg.naquadah_alloy.name=Naquadahlegierungsbarren
+item.jsg.naquadah_dust.name=Naquadahstaub
+item.jsg.naquadah_nugget.name=Naquadahnugget
+
+# crystals
+item.jsg.crystal_fragment.name=Kristallkeim
+
+item.jsg.crystal_blue.name=Teleportationskristall
+item.jsg.crystal_red.name=Energiekristall
+item.jsg.crystal_ender.name=Enderkristall
+item.jsg.crystal_yellow.name=Lichtkristall
+item.jsg.crystal_white.name=Weißerkristall
+item.jsg.crystal_blue_pegasus.name=Pegasuskristall
+item.jsg.crystal_tokra.name=Tokra Kristall
+
+item.jsg.circuit_control_base.name=Basiskontrollschaltkreis
+item.jsg.circuit_control_naquadah.name=Naquadah Kontrollschaltkreis
+item.jsg.circuit_control_crystal.name=Kristall Kontrollschaltkreis
+
+item.jsg.crystal_control_dhd.name=DHD Kontrollkristall
+item.jsg.crystal_control_pegasus_dhd.name=Pegasus DHD Kontrollkristall
+item.jsg.raw_pegasus_dhd_crystal.name=Roher Pegasus Kontrollkristall
+item.jsg.crystal_glyph_dhd.name=DHD Glyphenkristall
+item.jsg.crystal_glyph_stargate.name=Stargate Glyphenkristall
+item.jsg.crystal_glyph_milkyway.name=Milchstraßen Glyphenkristall
+item.jsg.crystal_glyph_pegasus.name=Pegasus Glyphenkristall
+item.jsg.crystal_glyph_universe.name=Universe Glyphenkristall
+item.jsg.crystal_glyph_goauld.name=Goa'uld Ring Glyphenkristall
+item.jsg.crystal_glyph_ori.name=Ori Ring Glyphenkristall
+item.jsg.crystal_glyph_ancient.name=Antiker Ring Glyphenkristall
+
+item.jsg.crystal_upgrade_capacity.name=Kapazitäts-Upgrade-Kristall
+item.jsg.crystal_upgrade_efficiency.name=Effizienz-Upgrade-Kristall
+
+
+# dhd
+item.jsg.dhd_brb.name=Leuchtender Roter Knopf (BRB)
+item.jsg.dhd_bbb.name=Leuchtender Blauer Knopf (BBB)
+
+# fragments
+item.jsg.fragment_stargate_milkyway.name=Ring Fragment (Milchstraße)
+item.jsg.fragment_stargate_pegasus.name=Ring Fragment (Pegasus)
+item.jsg.fragment_stargate_universe.name=Ring Fragment (Universe)
+item.jsg.fragment_transportrings_goauld.name=Transporterring Fragment (Goa'uld)
+item.jsg.fragment_transportrings_ori.name=Transporterring Fragment (Ori)
+item.jsg.fragment_transportrings_ancient.name=Transportring Fragment (Antiker)
+
+# holders
+item.jsg.holder_crystal.name=Kristallhalter
+item.jsg.holder_crystal_pegasus.name=Pegasus Kristallhalter
+
+# notebook
+item.jsg.page_notebook.name=Notizbuchseite
+item.jsg.page_notebook.empty=Leer
+item.jsg.page_notebook.end=Adresse mit 9 Symbolen
+
+# mysterious page
+item.jsg.page_mysterious_milkyway.name=Mysteriöse Seite (Milchstraße)
+item.jsg.page_mysterious_pegasus.name=Mysteriöse Seite (Pegasus)
+item.jsg.page_mysterious_universe.name=Mysteriöse Seite (Universe)
+item.jsg.page_mysterious.tooltip=Wer weiß wohin es führt?
+
+item.jsg.page_mysterious.generation.start=Neues Sternentor wird generiert...
+item.jsg.page_mysterious.generation.success=Sternentor erfolgreich erstellt!
+item.jsg.page_mysterious.generation.failed=Sternentor generierung FEHLGESCHLAGEN!
+
+# beamer
+item.jsg.beamer_crystal_power.name=Transporter Energiekristall
+item.jsg.beamer_crystal_fluid.name=Transporter Flüssigkeitskristall
+item.jsg.beamer_crystal_items.name=Transporter Itemkristall
+item.jsg.beamer_crystal_laser.name=Transporter Laserkristall
+
+# universe dialer
+item.jsg.universe_dialer.name=Universe Dialer
+item.jsg.universe_dialer.broken.name=Universe Dialer (Kaputt)
+item.jsg.universe_dialer.saved_gates=Gespeicherte gates: %s
+item.jsg.universe_dialer.not_linked=Nicht verbunden
+item.jsg.universe_dialer.gate_busy=Stargate ist beschäftigt
+item.jsg.universe_dialer.mode_scan=Nahe
+item.jsg.universe_dialer.mode_saved=Speicher
+item.jsg.universe_dialer.mode_rings=Ringe
+item.jsg.universe_dialer.mode_oc=OpnCom
+item.jsg.universe_dialer.mode_info=Status
+item.jsg.universe_dialer.mode_countdown=Timer
+item.jsg.universe_dialer.countdown_not_sync=Nicht synchronisiert!
+item.jsg.universe_dialer.countdown_not_active=Countdown nicht aktiv!
+item.jsg.universe_dialer.aborting=Anwahl abbrechen
+item.jsg.universe_dialer.abort=Abbruch
+item.jsg.universe_dialer.dial_start=Wähle das Gate...
+item.jsg.universe_dialer.not_dialing=Nicht wählend
+item.jsg.universe_dialer.dialer_broke=Fernbedienung ging kaputt um einen crash von MC zu vermeiden
+item.jsg.universe_dialer.oc_name=Eintrag Name
+item.jsg.universe_dialer.oc_address=OpenComputers Modem Adresse (Lasse leer für Ausstrahlung)
+item.jsg.universe_dialer.oc_port=Modem Port
+item.jsg.universe_dialer.oc_data=OpenComputers Parameter (durch Komma getrennt)
+item.jsg.universe_dialer.oc_save=Speichern
+item.jsg.universe_dialer.oc_port_invalid=Ungültiger Port
+item.jsg.universe_dialer.oc_message_received=Anwort empfangen:
+item.jsg.universe_dialer.toggle_fast_dial=Schnelles wählen umschalten
+item.jsg.universe_dialer.fast_dail_false=Schnelles wählen ausgeschaltet
+item.jsg.universe_dialer.fast_dail_true=Schnelles wählen eingeschaltet
+
+# notebook
+item.jsg.notebook.name=Notizbuch
+item.jsg.notebook.rename_gui=Neuer Name
+item.jsg.notebook.unnamed=<unbenannt>
+
+# gdo
+item.jsg.gui.name=Name
+item.jsg.gui.address=Addresse
+item.jsg.gui.rename=Umbenennen
+item.jsg.gui.oc_address=Modem Adresse
+item.jsg.gui.oc_port=Port
+item.jsg.gui.oc_params=Parameter
+item.jsg.gui.oc_port_invalid=Ungültiger Port
+item.jsg.gdo.name=Garagentoröffner (GDO)
+item.jsg.gdo.not_linked=Nicht verbunden
+item.jsg.gdo.code_sender=Code
+item.jsg.gdo.iris_opened=Iris ist offen!
+item.jsg.gdo.iris_busy=Iris ist beschäftigt!
+item.jsg.gdo.code_accepted=Code akzeptiert! Öffne Iris...
+item.jsg.gdo.code_rejected=Falscher code!
+item.jsg.gdo.code_not_set=Du musst einen Code eingeben!
+item.jsg.gdo.computer_handled=Warte auf Computer...
+item.jsg.gdo.mode_oc=OpnCom
+item.jsg.gdo.oc_name=Eintrag Name
+item.jsg.gdo.oc_address=OpenComputers Modem Adresse (Lasse leer für Broadcast)
+item.jsg.gdo.oc_port=Modem Port
+item.jsg.gdo.oc_data=OpenComputers Parameter (durch Komma getrennt)
+item.jsg.gdo.oc_save=Sichern
+item.jsg.gdo.oc_port_invalid=Ungültiger Port
+item.jsg.gdo.oc_message_received=Antwort erhalten:
+
+# tools
+item.jsg.zat.name=Zat'nik'tel
+item.jsg.staff.name=Goa'uld Stabwaffe
+item.jsg.energyWeapon.available_shots=Verfügbare Schüsse:
+
+item.jsg.hammer.name=JSG Hammer
+item.jsg.screwdriver.name=JSG Schraubenzieher
+item.jsg.wrench.name=JSG Schraubenschlüssel
+
+item.jsg.admin_controller.name=Admin Controller
+
+# -------------------
+
+# -------------------
+# TILE ENTITIES/BLOCKS
+
+# special blocks
+tile.jsg.invisible_block.name=Unsichtbarer Block
+
+# ores and ore blocks
+tile.jsg.naquadah_ore.name=Naquadah Erz
+tile.jsg.naquadah_ore_stone.name=Naquadah Erz (Stein)
+tile.jsg.naquadah_block.name=Naquadah Block
+tile.jsg.naquadah_block_raw.name=Roher Naquadah Block
+tile.jsg.trinium_ore.name=Trinium Erz
+tile.jsg.titanium_ore.name=Titanium Erz
+tile.jsg.trinium_block.name=Trinium Block
+tile.jsg.titanium_block.name=Titanium Block
+
+# decor blocks
+tile.jsg.tokra_crystal_block.name=Tokra Kristall Block
+tile.jsg.destiny_countdown_block.name=Destiny Countdown
+tile.jsg.destiny_bearing_block.name=Destiny Bearing
+tile.jsg.destiny_chevron_block.name=Destiny Floor Chevron
+tile.jsg.destiny_vent_block.name=Destiny CO2 Blaster
+
+# props
+prop.jsg.platform_ships_block.name=Ringplatform (Schiff)
+
+prop.jsg.decor_abydos_pot_block.name=Abydos Topf
+prop.jsg.decor_abydos_lamp_off_block.name=Abydos Lampe (Inaktiv)
+prop.jsg.decor_abydos_lamp_on_block.name=Abydos Lampe (Aktiv)
+prop.jsg.decor_drone_weapon_off_block.name=Drohne (Inaktiv)
+prop.jsg.decor_drone_weapon_on_block.name=Drohne (Aktiv)
+prop.jsg.decor_ancient_obelisk_block.name=Antiker Obelisk
+
+# dhd
+tile.jsg.dhd_block.name=Dial Home Device (DHD)
+tile.jsg.dhd_block.incoming_wormhole_warn=Stargate kann von dieser Seite nicht geschlossen werden
+tile.jsg.dhd_block.not_linked_warn=DHD ist mit keinem Stargate verbunden
+tile.jsg.dhd_block.no_crystal_warn=DHD hat keinen Kontrollkristall
+tile.jsg.dhd_block.no_enough_power=DHD benötigt mindestens 10,000uI zur ordnungsgemäßen Funktion
+tile.jsg.dhd_block.computer_dial=Computeranwahl findet gerade statt
+tile.jsg.dhd_block.not_enough_power=Unzureichende Energie
+
+tile.jsg.dhd_pegasus_block.name=Pegasus Dial Home Device (DHD)
+tile.jsg.dhd_pegasus_block.unknown_buttons=Dieser Knopf ist nur deko
+
+# stargate - MW
+tile.jsg.stargate_milkyway_base_block.name=Stargate Basis (Milchstraße)
+tile.jsg.stargate_milkyway_ring_block.name=Stargate Ring (Milchstraße)
+tile.jsg.stargate_milkyway_chevron_block.name=Stargate Chevron (Milchstraße)
+
+# stargate - ORLIN
+tile.jsg.stargate_orlin_base_block.open_count=Öffnungen: %s / %s
+tile.jsg.stargate_orlin_base_block.name=Stargate Basis (Orlin)
+tile.jsg.stargate_orlin_member_block.name=Stargate Ring (Orlin)
+
+# stargate - UNI
+tile.jsg.stargate_universe_base_block.name=Stargate Basis (Universe)
+tile.jsg.stargate_universe_chevron_block.name=Stargate Chevron (Universe)
+tile.jsg.stargate_universe_ring_block.name=Stargate Ring (Universe)
+
+# stargate - PEG
+tile.jsg.stargate_pegasus_base_block.name=Stargate Basis (Pegasus)
+tile.jsg.stargate_pegasus_ring_block.name=Stargate Ring (Pegasus)
+tile.jsg.stargate_pegasus_chevron_block.name=Stargate Chevron (Pegasus)
+
+# capacitor
+tile.jsg.capacitor_block.name=Kondensator
+tile.jsg.capacitor_block_empty.name=Kondensator (Leer)
+
+# zpm
+tile.jsg.zpm.name=Zero Point Modul (ZPM)
+tile.jsg.zpm_hub_block.name=ZPM Hub (Antiker)
+tile.jsg.zpm_slot_block.name=ZPM-Steckplatz (Tau'ri)
+
+# rings controller
+tile.jsg.transportrings_controller_goauld_block.name=Transporterring Steuerung
+tile.jsg.transportrings_controller_block.not_linked=Steuerung nicht verbunden
+
+# rings
+tile.jsg.transportrings_goauld_block.name=Transportringe (Goa'uld)
+tile.jsg.transportrings_ori_block.name=Transportringe (Ori)
+tile.jsg.transportrings_ancient_block.name=Transportringe (Ancient)
+
+tile.jsg.transportrings_block.non_existing_address=Adresse existiert nicht
+tile.jsg.transportrings_block.wrong_distance=Falsche distanz, es sollte von -15 bis 15 sein
+tile.jsg.transportrings_block.obstructed=Ringe sind versperrt, halte eine 5x5 Fläche um die Ringe frei
+tile.jsg.transportrings_block.obstructed_target=Zielringe sind versperrt, halte eine 5x5 Fläche um die Zielringe frei
+tile.jsg.transportrings_block.busy=Ringe aktiv
+tile.jsg.transportrings_block.busy_target=Ziel Ringe aktiv
+tile.jsg.transportrings_block.not_enough_power=Nicht genug Energie um Ringe zu aktivieren.
+tile.jsg.transportrings_block.rings_name=Name
+tile.jsg.transportrings_block.rings_distance=Entfernung
+
+# beamer
+tile.jsg.beamer_block.name=Transporter Block
+
+# machines
+tile.jsg.assembler_machine_block.name=Antiker Monteur
+tile.jsg.crystal_chamber_block.name=Kristallkammer
+tile.jsg.pcb_fabricator_block.name=Leiterplattenhersteller
+tile.jsg.ore_washing_machine_block.name=Erz Waschmaschine
+
+# ancient sign
+tile.jsg.ancient_sign.name=Antikes Schild
+
+# -------------------
+
+# -------------------
+# ENTITIES
+
+entity.Tokra.default=Tok'ra
+entity.tokra.name=Tok'ra
+
+# -------------------
+
+# -------------------
+# FLUIDS
+
+# silicon
+fluid.silicon_molten_black=Geschmolzenes Silizium
+fluid.silicon_molten_white=Raffiniertes Silizium
+fluid.silicon_molten_red=Energiemischung
+fluid.silicon_molten_blue=Teleportierende Mischung
+fluid.silicon_molten_ender=Endermischung
+fluid.silicon_molten_yellow=Leuchtende Mischung
+fluid.silicon_molten_pegasus=Pegasusmischung
+
+# naquadah
+fluid.naquadah_molten_raw=Flüssiges Naquadah
+fluid.naquadah_molten_refined=Raffiniertes Naquadah
+fluid.naquadah_molten_alloy=Flüssige Naquadahlegierung
+
+# other
+fluid.trinium_molten=Flüssiges Trinium
+fluid.titanium_molten=Flüssiges Titanium
+
+# -------------------
+
+# -------------------
+# COMMANDS
+
+commands.sgquery.usage=/sgquery [(x y z) (x y z)] [dim]
+commands.sgquery.number_expected=Nummer erwartet
+commands.sgquery.no_map=Karte nicht vorhanden
+commands.sgquery.stargates=Stargates %s
+commands.sgquery.wrong_id=Falsche ID oder keine gegeben
+commands.sgquery.wrong_map=Falsche Karte oder keine gegeben
+commands.sgquery.wrong_sender=Falscher Sender (kein Spieler)
+commands.sgquery.wrong_quantity=Falsche Seitenzahl angegeben
+commands.sgquery.giving_page=Gebe Seite zu %s
+commands.sggivepage.usage=/sggivepage (player) (map)
+commands.sggivepage.no_map=Falsche Karte oder keine gegeben
+commands.sggivepage.give_page=Gebe Seite zu %s
+commands.sgsetaddress.usage=/sgsetaddress (x y z) (map)
+commands.sgsetaddress.notstargate=Zielblock ist keine Stargate Basis
+commands.sgsetaddress.noaddressspace=Falsche Karte oder keine gegeben
+commands.sgsetaddress.wrongaddress=Adresse sollte eine durch Leerzeichen getrennte Liste von 7 Symbolen sein (Englische Namen)
+commands.sgsetaddress.wrongsymbol=Falsche %s. Symbolname
+commands.sgsetaddress.duplicatesymbol=Doppelte %s. Symbolname
+commands.sgsetaddress.exists=Stargate mit der gegebenen Adresse existiert bereits
+commands.sgsetaddress.success=Setze Stargate Adresse bei %s auf %s
+commands.sgcloseall.usage=/sgcloseall [(x y z) (x y z)] [dim]
+commands.sgcloseall.closing=Schließe Stargates in der Dimension
+commands.sgcloseall.closed=%s Stargates geschlossen.
+commands.sgcloseall.number_expected=Nummer oder "current" erwartet als Dimensions ID
+commands.sggenincoming.usage=/sggenincoming (x y z) (entities<0-10>) (addressLength<7-9>)
+commands.sggenincoming.notstargate=Angepeilter Block ist kein Stargate
+
+# -------------------
+
+# -------------------
+# DEATH MESSAGES
+
+death.attack.eventHorizon=%s wurde durch das Kawoosh ausgelöscht
+death.attack.irisDeath=%s warf sich gegen eine Iris
+death.attack.wrongSide=%s hat das Gate auf der falschen Seite betreten
+death.attack.unstableEventHorizon=%s hat es nicht auf die andere Seite geschafft
+
+death.attack.zatHit=%s wurde elektrisiert
+death.attack.staffHit=%s ist geschmolzen durch eine Goa'uld Stabwaffe
+
+# -------------------
+
+# -------------------
+# GLYPHS
+
+# RINGS
+# Ori Glyphs
+glyph.jsg.transportrings.ori.alpha=Alpha
+glyph.jsg.transportrings.ori.beta=Beta
+glyph.jsg.transportrings.ori.gamma=Gamma
+glyph.jsg.transportrings.ori.delta=Delta
+glyph.jsg.transportrings.ori.omega=Omega
+glyph.jsg.transportrings.ori.origin=Origin
+
+# Goa'uld Glyphs
+glyph.jsg.transportrings.goauld.amun=Amun
+glyph.jsg.transportrings.goauld.serket=Serket
+glyph.jsg.transportrings.goauld.khepri=Khepri
+glyph.jsg.transportrings.goauld.ra=Ra
+glyph.jsg.transportrings.goauld.felluca=Felluca
+glyph.jsg.transportrings.goauld.cobra=Cobra
+
+# STARGATE
+# Milkyway Glyphs
+glyph.jsg.milkyway.sculptor=Sculptor
+glyph.jsg.milkyway.scorpius=Scorpius
+glyph.jsg.milkyway.centaurus=Centaurus
+glyph.jsg.milkyway.monoceros=Monoceros
+glyph.jsg.milkyway.point_of_origin=Point of Origin
+glyph.jsg.milkyway.pegasus=Pegasus
+glyph.jsg.milkyway.andromeda=Andromeda
+glyph.jsg.milkyway.serpens_caput=Serpens Caput
+glyph.jsg.milkyway.aries=Aries
+glyph.jsg.milkyway.libra=Libra
+glyph.jsg.milkyway.eridanus=Eridanus
+glyph.jsg.milkyway.leo_minor=Leo Minor
+glyph.jsg.milkyway.hydra=Hydra
+glyph.jsg.milkyway.sagittarius=Sagittarius
+glyph.jsg.milkyway.sextans=Sextans
+glyph.jsg.milkyway.scutum=Scutum
+glyph.jsg.milkyway.pisces=Pisces
+glyph.jsg.milkyway.virgo=Virgo
+glyph.jsg.milkyway.bootes=Bootes
+glyph.jsg.milkyway.auriga=Auriga
+glyph.jsg.milkyway.corona_australis=Corona Australis
+glyph.jsg.milkyway.gemini=Gemini
+glyph.jsg.milkyway.leo=Leo
+glyph.jsg.milkyway.cetus=Cetus
+glyph.jsg.milkyway.triangulum=Triangulum
+glyph.jsg.milkyway.aquarius=Aquarius
+glyph.jsg.milkyway.microscopium=Microscopium
+glyph.jsg.milkyway.equuleus=Equuleus
+glyph.jsg.milkyway.crater=Crater
+glyph.jsg.milkyway.perseus=Perseus
+glyph.jsg.milkyway.cancer=Cancer
+glyph.jsg.milkyway.norma=Norma
+glyph.jsg.milkyway.taurus=Taurus
+glyph.jsg.milkyway.canis_minor=Canis Minor
+glyph.jsg.milkyway.capricornus=Capricornus
+glyph.jsg.milkyway.lynx=Lynx
+glyph.jsg.milkyway.orion=Orion
+glyph.jsg.milkyway.piscis_austrinus=Piscis Austrinus
+glyph.jsg.milkyway.bright_red_button=Bright Red Button
+
+# Pegasus Glyphs
+glyph.jsg.pegasus.acjesis=Acjesis
+glyph.jsg.pegasus.lenchan=Lenchan
+glyph.jsg.pegasus.alura=Alura
+glyph.jsg.pegasus.ca_po=Ca Po
+glyph.jsg.pegasus.laylox=Laylox
+glyph.jsg.pegasus.ecrumig=Ecrumig
+glyph.jsg.pegasus.avoniv=Avoniv
+glyph.jsg.pegasus.bydo=Bydo
+glyph.jsg.pegasus.aaxel=Aaxel
+glyph.jsg.pegasus.aldeni=Aldeni
+glyph.jsg.pegasus.setas=Setas
+glyph.jsg.pegasus.arami=Arami
+glyph.jsg.pegasus.danami=Danami
+glyph.jsg.pegasus.poco_re=Poco Re
+glyph.jsg.pegasus.robandus=Robandus
+glyph.jsg.pegasus.recktic=Recktic
+glyph.jsg.pegasus.zamilloz=Zamilloz
+glyph.jsg.pegasus.subido=Subido
+glyph.jsg.pegasus.dawnre=Dawnre
+glyph.jsg.pegasus.salma=Salma
+glyph.jsg.pegasus.hamlinto=Hamlinto
+glyph.jsg.pegasus.elenami=Elenami
+glyph.jsg.pegasus.tahnan=Tahnan
+glyph.jsg.pegasus.zeo=Zeo
+glyph.jsg.pegasus.roehi=Roehi
+glyph.jsg.pegasus.once_el=Once El
+glyph.jsg.pegasus.baselai=Baselai
+glyph.jsg.pegasus.sandovi=Sandovi
+glyph.jsg.pegasus.illume=Illume
+glyph.jsg.pegasus.amiwill=Amiwill
+glyph.jsg.pegasus.sibbron=Sibbron
+glyph.jsg.pegasus.gilltin=Gilltin
+glyph.jsg.pegasus.abrin=Abrin
+glyph.jsg.pegasus.ramnon=Ramnon
+glyph.jsg.pegasus.olavii=Olavii
+glyph.jsg.pegasus.hacemill=Hacemill
+glyph.jsg.pegasus.unknow1=Unknow 1
+glyph.jsg.pegasus.unknow2=Unknow 2
+
+# Universe Glyphs
+glyph.jsg.universe.g1=Glyph 1
+glyph.jsg.universe.g2=Glyph 2
+glyph.jsg.universe.g3=Glyph 3
+glyph.jsg.universe.g4=Glyph 4
+glyph.jsg.universe.g5=Glyph 5
+glyph.jsg.universe.g6=Glyph 6
+glyph.jsg.universe.g7=Glyph 7
+glyph.jsg.universe.g8=Glyph 8
+glyph.jsg.universe.g9=Glyph 9
+glyph.jsg.universe.g10=Glyph 10
+glyph.jsg.universe.g11=Glyph 11
+glyph.jsg.universe.g12=Glyph 12
+glyph.jsg.universe.g13=Glyph 13
+glyph.jsg.universe.g14=Glyph 14
+glyph.jsg.universe.g15=Glyph 15
+glyph.jsg.universe.g16=Glyph 16
+glyph.jsg.universe.g17=Glyph 17
+glyph.jsg.universe.g18=Glyph 18
+glyph.jsg.universe.g19=Glyph 19
+glyph.jsg.universe.g20=Glyph 20
+glyph.jsg.universe.g21=Glyph 21
+glyph.jsg.universe.g22=Glyph 22
+glyph.jsg.universe.g23=Glyph 23
+glyph.jsg.universe.g24=Glyph 24
+glyph.jsg.universe.g25=Glyph 25
+glyph.jsg.universe.g26=Glyph 26
+glyph.jsg.universe.g27=Glyph 27
+glyph.jsg.universe.g28=Glyph 28
+glyph.jsg.universe.g29=Glyph 29
+glyph.jsg.universe.g30=Glyph 30
+glyph.jsg.universe.g31=Glyph 31
+glyph.jsg.universe.g32=Glyph 32
+glyph.jsg.universe.g33=Glyph 33
+glyph.jsg.universe.g34=Glyph 34
+glyph.jsg.universe.g35=Glyph 35
+glyph.jsg.universe.g36=Glyph 36
+
+# -------------------
+
+# -------------------
+# GUI
+
+gui.upgrades=Upgrades
+gui.configuration=Konfiguration
+
+# dhd
+gui.dhd.fusion=Fusion
+gui.dhd.crystalStatus=Kontrollkristall Status:
+gui.dhd.no_crystal=Kristall fehlt
+gui.dhd.crystal_ok=Kristall vorhanden
+gui.dhd.linkStatus=Subraumlink Status:
+gui.dhd.linked=Verbunden
+gui.dhd.not_linked=Nicht verbunden
+gui.dhd.reactorStatus=Fusionsreaktor:
+gui.dhd.running=aktiv
+gui.dhd.standby=Standby
+gui.dhd.no_fuel=Kein Treibstoff
+
+# stargate
+gui.stargate.milky_way_address=Milchstraße-Adresse
+gui.stargate.pegasus_address=Pegasus-Adresse
+gui.stargate.universe_address=Universe-Adresse
+gui.stargate.iris_code=Iris Code
+gui.stargate.iris.help_title=Derzeitiger Modus:
+gui.stargate.iris.opened=Offen
+gui.stargate.iris.closed=Geschlossen
+gui.stargate.iris.auto=Automatisch
+gui.stargate.iris.oc=OC
+gui.stargate.iris.dialer=Dialer
+gui.stargate.iris.opened_help=Iris ist dauerhaft offen
+gui.stargate.iris.closed_help=Iris ist dauerhaft geschlossen
+gui.stargate.iris.auto_help=Iris schließt bei eingehendem Wurmloch automatisch,
+gui.stargate.iris.auto1_help=Kann durch einen Code des GDO geöffnet werden
+gui.stargate.iris.oc_help=Iris wird von OpenComputers kontrolliert
+gui.stargate.iris.dialer_help=Iris wird von Universe dialer kontrolliert
+
+gui.stargate.biome_overlay=Biom overlay
+gui.stargate.biome_overlay.help=Lege Block zum überschreiben ein
+gui.stargate.biome_overlay.normal=Normal
+gui.stargate.biome_overlay.frost=Frostig
+gui.stargate.biome_overlay.mossy=Moosig
+gui.stargate.biome_overlay.aged=Gealtert
+gui.stargate.biome_overlay.sooty=Verrußt
+gui.stargate.biome_overlay.sandy=Sandy
+gui.stargate.capacitors=Kondensatoren
+gui.stargate.energyBuffer=Energiespeicher
+
+gui.stargate.state.closed=Stargate geschlossen!
+gui.stargate.state.opened=Offene Zeit:
+gui.stargate.state.gate_temp=Stargatetemperatur:
+gui.stargate.state.iris_temp=Iristemperatur:
+
+gui.stargate.info=Gate-Informationen
+
+# zpmhub
+gui.zpmhub.inProgress=ZPMs in Bewegung!
+gui.zpmhub.slideDown=Aktiviere ZPMs
+gui.zpmhub.slideUp=Deaktiviere ZPMs
+gui.zpmhub.alert=Slots für ZPMs sind gesperrt!
+
+# capacitor
+gui.capacitor.name=Kondensatorbatterie
+
+# rings
+gui.transportrings.energyBuffer=Energiespeicher
+gui.transportrings.ori_address=Ori-Adresse
+gui.transportrings.goauld_address=Goa'uld-Adresse
+gui.transportrings.ancient_address=Antiker-Adresse
+gui.transportrings.parameters=Parameter
+
+# beamer
+gui.beamer.name=Stargate Transporter
+gui.beamer.beamer_status=Transporter Status:
+gui.beamer.beamer_ok=Transporter erkennt das Stargate
+gui.beamer.beamer_link_status=Transporter Verbindungsstatus:
+gui.beamer.beamer_link_ok=Transporter Verbindung OK
+gui.beamer.role_status=Rollenstatus:
+gui.beamer.role_ok=Rolle OK
+gui.beamer.disabled_target=Zieltransporter deaktiviert
+gui.beamer.obstructed=Beamer Versperrt
+gui.beamer.obstructed_target=Zieltransporter Versperrt 
+gui.beamer.two_transmitters=Zwei Sender
+gui.beamer.two_receivers=Zwei Empfänger
+gui.beamer.mode_mismatch=Modus stimmt nicht überein
+gui.beamer.no_beamer=Kein Transporter gefunden
+gui.beamer.closed=Stargate geschlossen
+gui.beamer.incoming=Eingehendes Wurmloch
+gui.beamer.disabled_by_logic=Transporter durch Logik deaktiviert
+gui.beamer.disabled_by_logic_target=Zieltransporter durch Logik deaktiviert
+gui.beamer.running=aktiv
+gui.beamer.no_crystal=Kein Kristall
+gui.beamer.no_power=Not enough power
+gui.beamer.can_not_receive=Can not receive
+
+gui.beamer.transmit=Senden
+gui.beamer.receive=Empfangen
+gui.beamer.disabled=Deaktiviert
+gui.beamer.activation=Transporter Aktivierung
+gui.beamer.auto=Automatisch
+gui.beamer.on_high=Mit Signal
+gui.beamer.on_low=Ohne Signal
+gui.beamer.ignored=Ignoriere
+gui.beamer.activate_below=Aktiveren unter [%%]
+gui.beamer.deactivate_over=Deaktiviere über [%%]
+gui.beamer.deactivate=Deaktiviere nach
+gui.beamer.after_inactivity=Untätigkeit [s]
+gui.beamer.save=Sichern
+gui.beamer.invalid=Ungültig
+
+# gdo
+gui.gdo.send_code=Code Eingabe:
+gui.gdo.send_button=Code senden
+
+# assembler
+gui.assembler.name=Antiker Monteur
+
+# ancient sign
+gui.ancient_sign.edit=Edit ancient text
+
+# -------------------
+
+# -------------------
+# KEY BINDINGS
+
+config.jsg.mode_scroll=Universe Dialer Mode scroll
+config.jsg.mode_up=Universe Dialer Mode hoch
+config.jsg.mode_down=Universe Dialer Mode runter
+config.jsg.address_scroll=Universe Dialer Adresse scroll
+config.jsg.address_up=Universe Dialer Adresse hoch
+config.jsg.address_down=Universe Dialer Adresse runter
+config.jsg.address_edit=Öffne Adressbearbeitung
+
+# -------------------
+
+# -------------------
+# SUBTITLES
+
+jsg.subtitle.dhd_milkyway_press=DHD Symbol gedrückt
+jsg.subtitle.dhd_milkyway_press_brb=DHD heller roter Knopf gedrückt
+jsg.subtitle.gate_milkyway_open=Stargate Wurmloch öffnet
+jsg.subtitle.gate_milkyway_close=Stargate Wurmloch schließt
+jsg.subtitle.gate_milkyway_ring_roll=Stargate Ring bewegt sich
+jsg.subtitle.gate_milkyway_dial_fail=Stargate Anwahl schlägt fehl
+jsg.subtitle.gate_orlin_broke=Stargate has broken
+jsg.subtitle.gate_orlin_dial_fail=Stargate fails to connect
+jsg.subtitle.gate_milkyway_dial_fail_computer=Stargate computer Anwahl schlägt fehl
+jsg.subtitle.gate_milkyway_incoming=Stargate Chevron sichern
+jsg.subtitle.gate_milkyway_chevron_shut=Stargate Chevron schließt
+jsg.subtitle.gate_milkyway_chevron_open=Stargate Chevron öffnet
+
+jsg.subtitle.dhd_pegasus_press=DHD Symbol gedrückt
+jsg.subtitle.dhd_pegasus_press_brb=DHD heller roter Knopf gedrückt
+jsg.subtitle.gate_pegasus_open=Stargate Wurmloch öffnet
+jsg.subtitle.gate_pegasus_close=Stargate Wurmloch schließt
+jsg.subtitle.gate_pegasus_ring_roll=Stargate Ring bewegt sich
+jsg.subtitle.gate_pegasus_dial_fail=Stargate Anwahl schlägt fehl
+jsg.subtitle.gate_pegasus_dial_fail_computer=Stargate Computeranwahl schlägt fehl
+jsg.subtitle.gate_pegasus_incoming=Stargate Chevron sichern
+jsg.subtitle.gate_pegasus_chevron_shut=Stargate Chevron schließt
+jsg.subtitle.gate_pegasus_chevron_open=Stargate Chevron öffnet
+
+jsg.subtitle.gate_orlin_dial=Orlin-Tor wählt
+
+jsg.subtitle.gate_universe_dial_start=Universe Tor startet Anwahl
+jsg.subtitle.gate_universe_roll=Universe Tor rollt
+jsg.subtitle.gate_universe_chevron_lock=Universe Tor Chevron sichert
+jsg.subtitle.gate_universe_fail=Universe Tor Verbindung scheitert
+jsg.subtitle.gate_universe_chevron_top_lock=Universe Tor oberstes Chevron sichert
+jsg.subtitle.gate_universe_open=Universe Tor Wurmloch öffnet
+jsg.subtitle.gate_universe_close=Universe Tor Wurmloch schließt
+
+jsg.subtitle.wormhole_loop=Stargate Wurmloch
+jsg.subtitle.wormhole_go=Stargate Wurmloch empfängt Reisenden
+jsg.subtitle.wormhole_flicker=Stargate Wurmloch flackert
+jsg.subtitle.rings_transport=Transportringe aktivieren sich
+jsg.subtitle.rings_controller_button=Transportring Kontrollknopf gedrückt
+
+jsg.subtitle.iris_hit=Etwas traf die Iris
+jsg.subtitle.iris_opening=Iris öffnet
+jsg.subtitle.iris_closing=Iris schließt
+jsg.subtitle.shield_hit=Etwas traf den Schild
+jsg.subtitle.shield_opening=Schild wird deaktiviert
+jsg.subtitle.shield_closing=Schild wird aktiviert
+
+jsg.subtitle.beamer_start=Transporter startet
+jsg.subtitle.beamer_stop=Transporter stoppt
+jsg.subtitle.beamer_loop=Transporter transportiert
+jsg.subtitle.page_flip=Seite schlägt um
+jsg.subtitle.gdo_button_beep=GDO-Knopf gedrückt
+jsg.subtitle.universe_dialer_beep=Pressed Universe Dialer button
+jsg.subtitle.universe_dialer_change_mode=Universe Dialer Modus geändert
+jsg.subtitle.universe_dialer_connect=Universe Dialer verbunden
+
+jsg.subtitle.item_zat_shoot=Zat'nik'tel Schuss
+jsg.subtitle.item_staff_shoot=Goa'uld Stabwaffe Schuss
+
+jsg.subtitle.destiny_countdown_start=Destiny's countdown gestartet!
+jsg.subtitle.destiny_countdown_stop=Destiny's countdown hat null erreicht
+jsg.subtitle.destiny_countdown_one_minute=Eine Minute verbleibend auf Destiny's countdown
+
+# -------------------
+
+# -------------------
+# OTHER
+
+# orlin chat message
+chat.orlins.energyStored=Energie gespeichert: %s RF (Benötigt: %s RF, %s s)
+
+# -------------------
+
+# -------------------
+# MAIN MENU
+
+menu.about=Über Just Stargate Mod
+menu.updater.download=Download
+menu.updater.close=Schließen
+menu.ram.help=Help
+
+# tips
+menu.nether_gate=TIP: Wenn Sie in den Nether gehen, vergessen Sie nicht, die Gate-Adresse des Nethers zu speichern!
+menu.energy=TIP: Wenn Sie Kabel für das Gate in mehrere Gate-Blöcke stecken, wird das Gate schneller aufgeladen!
+menu.dhd=TIP: Vergiss nicht, dass DHDs mit Kapazitäts- und Effizienz-Upgrades aufgerüstet werden können! 
+menu.gdo=TIP: Wenn du eine Iris installiert hast, vergiss nicht die Haltbarkeit zu prüfen!
+
+# -------------------

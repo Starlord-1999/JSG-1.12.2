@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GBI",
+		"PRP",
+		"IWG"
+	],
+	
+	"key": {
+		"G": {
+			"type" : "forge:ore_dict",
+			"ore": "gearTitanium"
+		},
+		"B": {
+			"item": "minecraft:iron_block"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"P": {
+			"type" : "forge:ore_dict",
+			"ore": "plateTitanium"
+		},
+		"R": {
+			"item": "minecraft:redstone_block"
+		},
+		"W": {
+			"item": "jsg:wrench"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:stargate_orlin_base_block",
+		"count": 1
+	}
+}

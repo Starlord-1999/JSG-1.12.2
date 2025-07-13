@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "forge:ore_dict",
+			"ore": "ingotNaquadahRaw"
+		},
+		{
+			"item": "jsg:hammer"
+		}
+	],
+	"result": {
+		"item": "jsg:plate_naquadah_raw",
+		"count": 1
+	}
+}

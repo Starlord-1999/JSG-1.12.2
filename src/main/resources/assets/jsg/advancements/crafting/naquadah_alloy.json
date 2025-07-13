@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": {
+      "translate": "advancement.naquadah_alloy.title",
+      "color": "dark_gray",
+      "bold": true,
+      "underlined": false,
+      "strikethrough": false
+    },
+    "description": {
+      "translate": "advancement.naquadah_alloy.desc"
+    },
+    "icon": {
+      "item": "jsg:naquadah_alloy"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "jsg:crafting/naquadah_raw",
+  "criteria": {
+    "test": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "type": "forge:ore_dict",
+            "ore": "ingotNaquadahRefined"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,905 @@
+# itemGroups - creative tabs
+itemGroup.jsg_gates=JSG: Врата
+itemGroup.jsg_items=JSG: Предметы
+itemGroup.jsg_rings=JSG: Кольца
+itemGroup.jsg_ores=JSG: Руды
+itemGroup.jsg_energy=JSG: Энергия
+itemGroup.jsg_tools=JSG: Инструменты
+itemGroup.jsg_props=JSG: Props
+itemGroup.jsg_machines=JSG: Машины
+itemGroup.jsg_weapons=JSG: Оружия
+itemGroup.jsg_records=JSG: Records
+
+# config file
+config.jsg.general=General Config
+config.jsg.general.tooltip=Configuration of misc things
+
+config.jsg.zpm=ZPM Config
+config.jsg.zpm.tooltip=Configuration of ZPM and ZPM Hubs
+
+config.jsg.stargates=Stargates Config
+config.jsg.stargates.tooltip=Configuration of Stargates
+
+config.jsg.rings=Transport Rings Config
+config.jsg.rings.tooltip=Configuration of Transport Rings
+
+config.jsg.dhd=DHD Config
+config.jsg.dhd.tooltip=Configuration of DHD and Universe Dialer
+
+config.jsg.beamers=Beamers Config
+config.jsg.beamers.tooltip=Configuration of Beamers
+
+config.jsg.worldgen=World Generation Config
+config.jsg.worldgen.tooltip=Configuration of World Gen and Mysterious Pages
+
+config.jsg.items=Items Config
+config.jsg.items.tooltip=Configuration of Items, Armor and Weapons
+
+# Sound category
+soundCategory.jsg=Just Stargate Mod
+
+# -------------------
+# ADVANCEMENTS
+
+advancement.machines.title=Некоторые шестерни и винты
+advancement.machines.desc=Категория, полная машинного оборудования
+
+advancement.wormhole_go.title=Какая червоточина? А почему червь?
+advancement.wormhole_go.desc=Войти в горизонт событий звездных врат
+
+advancement.merged_orlin.title=Тебе понадобится новый тостер
+advancement.merged_orlin.desc=Построй звёздные врата Орлина
+
+advancement.merged_milkyway.title=Пирамида с солнцем прямо над ней
+advancement.merged_milkyway.desc=Построй звёздные врата Млечного Пути
+
+advancement.merged_pegasus.title=Прыгун не входит
+advancement.merged_pegasus.desc=Построй звьоздние врата Пегаса
+
+advancement.merged_universe.title=Древние, во обоих смыслах
+advancement.merged_universe.desc=Построй звьоздние врата вселении
+
+advancement.chevron_seven_locked.title=Седьмой Шефрон Закодирован!
+advancement.chevron_seven_locked.desc=Набрать существующий 7-символьный адрес
+
+advancement.chevron_eight_locked.title=Адрес не неверный, а неполный.
+advancement.chevron_eight_locked.desc=Набрать существующий 8-символьный адрес
+
+advancement.chevron_nine_locked.title=Несколько миллиардов световых лет от дома
+advancement.chevron_nine_locked.desc=Набрать существующий 9-символьный адрес
+
+advancement.iris_impact.title=Тук-тук... Кто там?
+advancement.iris_impact.desc=Станьте свидетелем попадания объекта в диафрагму
+
+advancement.gdo_used.title=Код принят - Открытие Диафрагмы
+advancement.gdo_used.desc=Используйте ГДО чтобы отправить код
+
+advancement.kawoosh_cremation.title=Побег из Хаданте
+advancement.kawoosh_cremation.desc=Испытайте кремацию нестабильной червоточины на себе
+
+advancement.first_zpm.title=Что? МНТ, он же канадец
+advancement.first_zpm.desc=Получить модуль нулевой точки
+
+advancement.three_zpms.title=Я не верю своим глазам: три МНТ
+advancement.three_zpms.desc=Используйте МНТ Станцию с тремя МНТ
+
+advancement.zpm_slot.title=О да
+advancement.zpm_slot.desc=Используй слот МНТ
+
+advancement.upgrade_shield.title=Использует энергию, использует энергию...
+advancement.upgrade_shield.desc=Получить щит звездных врат
+
+advancement.beamer.title=Лучники будут лучить
+advancement.beamer.desc=Получите лучник
+
+advancement.titanium.title=Становится труднее и жестче
+advancement.titanium.desc=Получить слиток титана
+
+advancement.naquadah_raw.title=Наква...Что?
+advancement.naquadah_raw.desc=Скрафтить сырой слиток наквадаха
+
+advancement.naquadah_alloy.title=Самый лучший проводник
+advancement.naquadah_alloy.desc=Скрафтить слиток наквадаха
+
+advancement.trinium.title=Ты спросил Кселса и Такайю?!
+advancement.trinium.desc=Получить слитокя Триния
+
+advancement.unstable_eh_survive.title=На мгновение я подумал, что у нас проблемы
+advancement.unstable_eh_survive.desc=Войдите в нестабильную червоточину и выживите
+
+advancement.tokra_crystal.title=Они живут под землой
+advancement.tokra_crystal.desc=Получить Кристаллы Токра
+
+advancement.beamer_crystal_laser.title=Ускоритель частиц стреляет через Звездные врата?
+advancement.beamer_crystal_laser.desc=Получите лучевой лазерный кристалл
+
+advancement.transportrings_goauld.title=Лифты - такая заноза в заднице
+advancement.transportrings_goauld.desc=Используйте транспортировочные кольца Гоаулдов
+
+advancement.transportrings_ori.title=Равнины Селестиды
+advancement.transportrings_ori.desc=Используйте транспортные кольца Орай
+
+advancement.transportrings_ancient.title=Оригинал можно сказать
+advancement.transportrings_ancient.desc=Используйте транспортные кольца Древних
+
+advancement.assembler.title=Древние строительство
+advancement.assembler.desc=Создать древний зборщик
+
+advancement.chamber.title=Растите, Кристаллы, Растите!
+advancement.chamber.desc=Создать Хрустальную камеру
+
+advancement.pcb.title=На основе технологиии кристаллов
+advancement.pcb.desc=Создать производителя печатных плат
+
+advancement.ore_washing.title=Очистка руд
+advancement.ore_washing.desc=Изготовить стиральную машину для руды
+
+advancement.chemicals.title=Это секретная лаборатория Януса?
+advancement.chemicals.desc=Создайте древнюю химическую лабораторию
+
+advancement.refined_naquadah.title=Теперь это ГОРЯЧИЙ материал
+advancement.refined_naquadah.desc=Получите очищенный жидкий наквадах
+
+advancement.myst_page.title=Абидосский картуш
+advancement.myst_page.desc=Использовать загадочную карту
+
+# -------------------
+
+# sound categories
+soundCategory.jsg_sounds=Just Stargate mod
+
+# -------------------
+# ITEMS
+
+# records
+item.jsg.record_sgc.name=SG-1 Theme
+item.jsg.record_atlantis.name=Atlantis Theme
+item.jsg.record_destiny.name=Destiny Theme
+item.jsg.record_origins.name=Origins Theme
+item.jsg.record_elevator.name=Loading Music
+
+# iris
+item.jsg.iris_blade.name=Лезвие Диафрагмы (Титан)
+item.jsg.iris_blade_trinium.name=Лезвие Диафрагмы (Триниум)
+item.jsg.quad_iris_blade.name=Счетверённое Лезвие Диафрагмы (Титан)
+item.jsg.quad_iris_blade_trinium.name=Счетверённое Лезвие Диафрагмы (Триниум)
+item.jsg.upgrade_iris.name=Улучшение "Диафрагма" (Титан)
+item.jsg.upgrade_iris_trinium.name=Улучшение "Диафрагма" (Триниум)
+item.jsg.upgrade_iris_creative.name=Iris Upgrade (Creative)
+item.jsg.iris.tooltip.integrity=Integrity:
+item.jsg.iris.tooltip.durability=Durability:
+item.jsg.shield_emitter.name=Излучатель Щита
+item.jsg.upgrade_shield.name=Улучшение "Щит"
+
+# ingots
+item.jsg.trinium_impure.name=Нечистая триниевая руда
+item.jsg.trinium_purified.name=Очищенная триниевая руда
+item.jsg.trinium_raw.name=Необработанная триниевая руда
+item.jsg.trinium_ingot.name=Слиток триниума
+item.jsg.trinium_dust.name=Триниум Пыль
+item.jsg.trinium_nugget.name=Самородок триниума
+
+item.jsg.titanium_impure.name=Нечистая титановая руда
+item.jsg.titanium_purified.name=Очищенная титановая руда
+item.jsg.titanium_raw.name=Сырая титановая руда
+item.jsg.titanium_ingot.name=Титановый слиток
+item.jsg.titanium_dust.name=Титановая пыль
+item.jsg.titanium_nugget.name=Самородок титана
+
+item.jsg.naquadah_impure.name=Нечистая руда наквадаха
+item.jsg.naquadah_purified.name=Очищенная наквадах руда
+item.jsg.naquadah_raw.name=Необработанная руда наквадаха
+item.jsg.naquadah_alloy_raw.name=Сырой слиток сплава наквадаха
+item.jsg.naquadah_raw_dust.name=Сырая пыль наквадаха
+item.jsg.naquadah_raw_nugget.name=Сырой самородок наквадаха
+
+item.jsg.naquadah_alloy.name=Слиток сплава наквадаха
+item.jsg.naquadah_dust.name=Наквадах Пыль
+item.jsg.naquadah_nugget.name=Самородок наквадаха
+
+# crystals
+item.jsg.crystal_fragment.name=Семя Кристалла
+
+item.jsg.crystal_blue.name=Телепортационный Кристалл
+item.jsg.crystal_red.name=Энергитический Кристалл
+item.jsg.crystal_ender.name=Эндер Кристалл
+item.jsg.crystal_yellow.name=Световой Кристалл
+item.jsg.crystal_white.name=Белый Кристалл
+item.jsg.crystal_blue_pegasus.name=Кристалл Пегаса
+item.jsg.crystal_tokra.name=Кристалл Токра
+
+item.jsg.circuit_control_base.name=Основа Управляющей Микросхемы
+item.jsg.circuit_control_naquadah.name=Управляющая Микросхема из Наквадаха
+item.jsg.circuit_control_crystal.name=Кристальная Управляющая Микросхема
+
+item.jsg.crystal_control_dhd.name=Контрольный Кристалл Наборного Устройства
+item.jsg.crystal_control_pegasus_dhd.name=Контрольный Кристалл Наборного Устройства Пегаса
+item.jsg.raw_pegasus_dhd_crystal.name=Необработанный Контрольный Кристалл Наборного Устройства Пегаса
+item.jsg.crystal_glyph_dhd.name=Символьный Кристалл Наборного Устройства
+item.jsg.crystal_glyph_stargate.name=Символьный Кристалл Звёздных Крат
+item.jsg.crystal_glyph_milkyway.name=Кристалл Адреса Млечного Пути
+item.jsg.crystal_glyph_pegasus.name=Кристалл Адреса Пегаса
+item.jsg.crystal_glyph_universe.name=Кристалл Адреса Вселенной
+item.jsg.crystal_glyph_goauld.name=Кристалл Глифов Гоаулд кольцов
+item.jsg.crystal_glyph_ori.name=Кристалл Глифов Орай кольцов
+item.jsg.crystal_glyph_ancient.name=Кристалл Глифов кольцов Древних
+
+item.jsg.crystal_upgrade_capacity.name=Кристалл увеличения емкости
+item.jsg.crystal_upgrade_efficiency.name=Кристалл повышения эффективности
+
+# dhd
+item.jsg.dhd_brb.name=Большая Красная Кнопка (BRB)
+item.jsg.dhd_bbb.name=Большая Синяя Кнопка (BBB)
+
+# fragments
+item.jsg.fragment_stargate_milkyway.name=Фрагмент кольца (Млечный Путь)
+item.jsg.fragment_stargate_pegasus.name=Фрагмент кольца (Пегас)
+item.jsg.fragment_stargate_universe.name=Фрагмент кольца (Вселенная)
+item.jsg.fragment_transportrings_goauld.name=Фрагмент транспортных колец (Гоа'улд)
+item.jsg.fragment_transportrings_ori.name=Фрагмент транспортных колец (Орай)
+item.jsg.fragment_transportrings_ancient.name=Фрагмент транспортных колец (древний)
+
+# holders
+item.jsg.holder_crystal.name=Держатель Кристалла
+item.jsg.holder_crystal_pegasus.name=Держатель Кристалла (Пегас)
+
+# notebook
+item.jsg.page_notebook.name=Страница блокнота
+item.jsg.page_notebook.empty=Пустой
+item.jsg.page_notebook.end=Address with 9 symbols
+
+# mysterious page
+item.jsg.page_mysterious_milkyway.name=Таинственная страница (Млечный Путь)
+item.jsg.page_mysterious_pegasus.name=Таинственная страница (Пегас)
+item.jsg.page_mysterious_universe.name=Таинственная страница (Вселенная)
+item.jsg.page_mysterious.tooltip=Кто знает, куда это ведет
+
+item.jsg.page_mysterious.generation.start=Запуск новой генерации звездных врат...
+item.jsg.page_mysterious.generation.success=Звездные врата сгенерированы успешно!
+item.jsg.page_mysterious.generation.failed=Генерация Звездных врат Сорвалась!
+
+# beamer
+item.jsg.beamer_crystal_power.name=Энергитический Кристалл Передатчика
+item.jsg.beamer_crystal_fluid.name=Жидкостный Кристалл Передатчика
+item.jsg.beamer_crystal_items.name=Предметный Кристалл Передатчика
+item.jsg.beamer_crystal_laser.name=Beamer Laser Crystal
+
+# universe dialer
+item.jsg.universe_dialer.name=Портативное Устройство Древних
+item.jsg.universe_dialer.broken.name=Портативное Устройство Древних (Сломано)
+item.jsg.universe_dialer.saved_gates=Сохраненные врата: %s
+item.jsg.universe_dialer.not_linked=Не связано
+item.jsg.universe_dialer.gate_busy=Врата Заняты
+item.jsg.universe_dialer.mode_scan=Рядом
+item.jsg.universe_dialer.mode_saved=память
+item.jsg.universe_dialer.mode_rings=Кольца
+item.jsg.universe_dialer.mode_oc=OpnCom
+item.jsg.universe_dialer.mode_info=состояние
+item.jsg.universe_dialer.mode_countdown=Таймер
+item.jsg.universe_dialer.countdown_not_sync=Не синхронизировано!
+item.jsg.universe_dialer.countdown_not_active=Обратный отсчет не активен!
+item.jsg.universe_dialer.aborting=Отмена набора...
+item.jsg.universe_dialer.abort=Отмена
+item.jsg.universe_dialer.dial_start=Набор врат...
+item.jsg.universe_dialer.not_dialing=Набор не идёт
+item.jsg.universe_dialer.dialer_broke=Устройство было сломано во избежание повреждения мира
+item.jsg.universe_dialer.oc_name=Ввод
+item.jsg.universe_dialer.oc_address=Адрес модема компьютера (Оставьте пустым для вещания)
+item.jsg.universe_dialer.oc_port=Порт модема
+item.jsg.universe_dialer.oc_data=Параметры (Разделение точкой)
+item.jsg.universe_dialer.oc_save=Сохранить
+item.jsg.universe_dialer.oc_port_invalid=Неверный порт
+item.jsg.universe_dialer.oc_message_received=Полученный отклик:
+item.jsg.universe_dialer.toggle_fast_dial=Включить быстрый набор
+item.jsg.universe_dialer.fast_dail_false=Быстрый набор установлен на: False
+item.jsg.universe_dialer.fast_dail_true=Быстрый набор установлен на: True
+
+# notebook
+item.jsg.notebook.name=Блокнот
+item.jsg.notebook.rename_gui=Новое имя
+item.jsg.notebook.unnamed=<Не названо>
+
+# gdo
+item.jsg.gui.name=Имя
+item.jsg.gui.address=Адрес
+item.jsg.gui.rename=Переименовать
+item.jsg.gui.oc_address=Адрес модема
+item.jsg.gui.oc_port=Порт
+item.jsg.gui.oc_params=Параметры
+item.jsg.gui.oc_port_invalid=Неверный порт
+item.jsg.gdo.name=Передатчик Кода Диафрагмы (GDO)
+item.jsg.gdo.not_linked=Не подсоединён
+item.jsg.gdo.code_sender=Код
+item.jsg.gdo.iris_opened=Диафрагма открыта!
+item.jsg.gdo.iris_busy=Диафрагма активна
+item.jsg.gdo.code_accepted=Код принят! Открытие Диафрагмы...
+item.jsg.gdo.code_rejected=Неверный код!
+item.jsg.gdo.code_not_set=Вы должны ввести код!
+item.jsg.gdo.computer_handled=Ожидание компьютера...
+item.jsg.gdo.mode_oc=OpnCom
+item.jsg.gdo.oc_name=Ввод
+item.jsg.gdo.oc_address=Адрес модема компьютера (Оставьте пустым для вещания)
+item.jsg.gdo.oc_port=Порт модема
+item.jsg.gdo.oc_data=Параметры (Разделение точкой)
+item.jsg.gdo.oc_save=Сохранить
+item.jsg.gdo.oc_port_invalid=Неверный порт
+item.jsg.gdo.oc_message_received=Полученный отклик:
+
+# tools
+item.jsg.zat.name=Zat'nik'tel
+item.jsg.staff.name=Посох Гоаулда
+item.jsg.energyWeapon.available_shots=Доступные выстрелы:
+
+item.jsg.hammer.name=JSG Молот
+item.jsg.screwdriver.name=JSG Отвертка
+item.jsg.wrench.name=JSG ключ
+
+item.jsg.admin_controller.name=Admin Controller
+
+# gears
+item.jsg.gear_titanium.name=Шестерня (титан)
+item.jsg.gear_trinium.name=Шестерня (Триниум)
+item.jsg.gear_naquadah_raw.name=Шестерня (сырой наквадах)
+item.jsg.gear_naquadah.name=Шестерня (Наквадах)
+
+# plates
+item.jsg.plate_titanium.name=Пластина (титан)
+item.jsg.plate_trinium.name=Пластина  (Триниум)
+item.jsg.plate_naquadah_raw.name=Пластина (Сырой наквадах)
+item.jsg.plate_naquadah.name=Пластина (аквадах)
+
+# -------------------
+
+# -------------------
+# TILE ENTITIES/BLOCKS
+
+# special blocks
+tile.jsg.invisible_block.name=Ты не можешь меня видеть :D
+
+# ores and ore blocks
+tile.jsg.naquadah_ore.name=Руда Наквадаха
+tile.jsg.naquadah_ore_stone.name= Руда Наквадаха (В Камне)
+tile.jsg.naquadah_block.name=Блок Наквадаха
+tile.jsg.naquadah_block_raw.name=Блок Необработанного Наквадаха
+tile.jsg.trinium_ore.name=Руда Триниума
+tile.jsg.titanium_ore.name=Титановая Руда
+tile.jsg.trinium_block.name=Блок Триниума
+tile.jsg.titanium_block.name=Блок Титана
+
+# decor blocks
+tile.jsg.tokra_crystal_block.name=Кристальный блок Токры
+tile.jsg.destiny_countdown_block.name=Блок обратного отсчета судьбы
+tile.jsg.destiny_bearing_block.name=Destiny Bearing
+tile.jsg.destiny_chevron_block.name=Destiny Floor Chevron
+tile.jsg.destiny_vent_block.name=Destiny CO2 Blaster
+
+# props
+prop.jsg.platform_ships_block.name=Кольцевая платформа (Корабли)
+
+prop.jsg.decor_abydos_pot_block.name=Abydos Pot
+prop.jsg.decor_abydos_lamp_off_block.name=Abydos Lamp (Off)
+prop.jsg.decor_abydos_lamp_on_block.name=Abydos Lamp (On)
+prop.jsg.decor_drone_weapon_off_block.name=Ancient Drone (Off)
+prop.jsg.decor_drone_weapon_on_block.name=Ancient Drone (On)
+prop.jsg.decor_ancient_obelisk_block.name=Ancient Obelisk
+
+# dhd
+tile.jsg.dhd_block.name=Наборное Устройство (DHD)
+tile.jsg.dhd_block.incoming_wormhole_warn=Невозможно закрыть с этой стороны
+tile.jsg.dhd_block.not_linked_warn=DHD не подключен к Вратам
+tile.jsg.dhd_block.no_crystal_warn=DHD не имеет управляющего кристалла
+tile.jsg.dhd_block.no_enough_power=DHD необходимо минимум 10,000uI для функционирования
+tile.jsg.dhd_block.computer_dial=Набор с компьютера в процессе
+tile.jsg.dhd_block.not_enough_power=Недостаточно энергии
+
+tile.jsg.dhd_pegasus_block.name=Наборное Устройство Пегаса (DHD Пегаса)
+tile.jsg.dhd_pegasus_block.unknown_buttons=Эта кнопка не работает
+
+# stargate - MW
+tile.jsg.stargate_milkyway_base_block.name=Основа Звёздных Врат (Млечный Путь)
+tile.jsg.stargate_milkyway_ring_block.name=Кольцо Звёздных Врат (Млечный Путь
+tile.jsg.stargate_milkyway_chevron_block.name=Шеврон Звёздных Врат (Млечный Путь)
+
+# stargate - ORLIN
+tile.jsg.stargate_orlin_base_block.open_count=Энергии на открытие: %s / %s
+tile.jsg.stargate_orlin_base_block.name=Основа Звёздных Врат (Орлин)
+tile.jsg.stargate_orlin_member_block.name=Кольцо Звёздных Врат (Орлин)
+
+# stargate - UNI
+tile.jsg.stargate_universe_base_block.name=Основа Звёздных Врат (Вселенная)
+tile.jsg.stargate_universe_chevron_block.name=Шеврон Звёздных Врат (Вселенная)
+tile.jsg.stargate_universe_ring_block.name=Кольцо Звёздных Врат (Вселенная)
+
+# stargate - PEG
+tile.jsg.stargate_pegasus_base_block.name=Основа Звёздных Врат (Пегас)
+tile.jsg.stargate_pegasus_ring_block.name=Кольцо Звёздных Врат (Пегас)
+tile.jsg.stargate_pegasus_chevron_block.name=Шеврон Звёздных Врат (Пегас)
+
+# capacitor
+tile.jsg.capacitor_block.name=Конденсатор
+tile.jsg.capacitor_block_creative.name=Конденсатор (Creative)
+tile.jsg.capacitor_block_empty.name=Конденсатор (Пустой)
+
+# zpm
+tile.jsg.zpm.name=Модуль нулевой точки (МНТ)
+tile.jsg.creative_zpm.name=Модуль нулевой точки (МНТ) (Creative)
+tile.jsg.zpm_hub_block.name=Модуль МНТ (Древние)
+tile.jsg.zpm_slot_block.name=Модуль МНТ (Таури)
+
+# rings controller
+tile.jsg.transportrings_controller_goauld_block.name=Панель Транспортных Колец
+tile.jsg.transportrings_controller_block.not_linked=Панель не подключена
+
+# rings
+tile.jsg.transportrings_goauld_block.name=Транспортные Кольца (Goa'uld)
+tile.jsg.transportrings_ori_block.name=Транспортные Кольца (Ori)
+tile.jsg.transportrings_ancient_block.name=Транспортные Кольца (Ancient)
+
+tile.jsg.transportrings_block.non_existing_address=Невозможно достигнуть адрес
+tile.jsg.transportrings_block.wrong_distance=Неверное расстояние, должно быть от -15 до 15
+tile.jsg.transportrings_block.obstructed=Кольца заблокированы, очистите зону 5х5 вокруг Колец
+tile.jsg.transportrings_block.obstructed_target=Заданные Кольца заблокированы, очистите зону 5х5 вокруг заданных Колец
+tile.jsg.transportrings_block.busy=Кольца активны
+tile.jsg.transportrings_block.busy_target=Заданные Кольца активны
+tile.jsg.transportrings_block.not_enough_power=Недостаточно мощности для активации колец
+tile.jsg.transportrings_block.rings_name=Имя
+tile.jsg.transportrings_block.rings_distance=Расстояние
+
+# beamer
+tile.jsg.beamer_block.name=Лучевой Передатчик
+
+# machines
+tile.jsg.assembler_machine_block.name=Древний зборщик
+tile.jsg.crystal_chamber_block.name=Кристальная Камера
+tile.jsg.pcb_fabricator_block.name=Производитель печатных плат
+tile.jsg.ore_washing_machine_block.name=Рудная стиральная машина
+
+# ancient sign
+tile.jsg.ancient_sign.name=Древний знак
+
+# -------------------
+
+# -------------------
+# ENTITIES
+
+entity.Tokra.default=Токра
+entity.tokra.name=Токра
+
+# -------------------
+
+# -------------------
+# FLUIDS
+
+# silicon
+fluid.silicon_molten_black=Расплавленный Кремний
+fluid.silicon_molten_white=Расплавленный Обработанный Кремний
+fluid.silicon_molten_red=Энергитическая Смесь
+fluid.silicon_molten_blue=Телепортационная Смесь
+fluid.silicon_molten_ender=Эндер Смесь
+fluid.silicon_molten_yellow=Световая Смесь
+fluid.silicon_molten_pegasus=Pegasus Blend
+
+# naquadah
+fluid.naquadah_molten_raw=Расплавленный Наквадах
+fluid.naquadah_molten_refined=Расплавленный Обработанный Наквадах
+fluid.naquadah_molten_alloy=Расплавленный Сплав Наквадаха
+
+# other
+fluid.trinium_molten=Расплавленный Триниум
+fluid.titanium_molten=Расплавленный Титан
+
+# -------------------
+
+# -------------------
+# COMMANDS
+
+commands.sgquery.usage=/sgquery [(x y z) (x y z)] [dim=X] [map=Y] [id=Z]
+commands.sgquery.number_expected=Ожидалось число
+commands.sgquery.no_map=Нет такой таблицы
+commands.sgquery.stargates=Звёздные Врата %s
+commands.sgquery.wrong_id=Неправильный ID или его нет
+commands.sgquery.wrong_map=Неправильная таблица или она не указана
+commands.sgquery.wrong_sender=Неправильный отправитель (не игрок)
+commands.sgquery.wrong_quantity=Задано неверное количество страниц
+commands.sgquery.giving_page=Выдача страницы игроку %s
+commands.sggivepage.usage=/sggivepage (player) (map=X) [biome=Y] (Symbol)x8/6
+commands.sggivepage.no_map=Нет таблицы или она не указана
+commands.sggivepage.give_page=Выдача страницы игроку %s
+commands.sgsetaddress.usage=/sgsetaddress (x y z) (map=X) (Symbol)x8
+commands.sgsetaddress.notstargate=Указанный блок не Основа Врат
+commands.sgsetaddress.noaddressspace=Неправильная таблица или она не указана
+commands.sgsetaddress.wrongaddress=Адрес должен состоять из названий символов разделённых пробелами (Названия на Английском)
+commands.sgsetaddress.wrongsymbol=Неверное %s. имя символа
+commands.sgsetaddress.duplicatesymbol=Повторяющееся %s. имя символа
+commands.sgsetaddress.exists=Врата с заданным адресом уже существуют
+commands.sgsetaddress.success=Установлен адрес Вратам %s на %s 
+commands.sgcloseall.usage=/sgcloseall [(x y z) (x y z)] [dim=X]
+commands.sgcloseall.closing=Закрыте всех Врат в измерении=%s, %s.
+commands.sgcloseall.closed=Закрыто %s Врат.
+commands.sgcloseall.number_expected=Число или "текущее" распознано как ID измерения
+commands.sggenincoming.usage=/sggenincoming (x y z) (entities<0-10>) (addressLength<7-9>)
+commands.sggenincoming.notstargate=Указанный блок не Основа Врат
+
+# -------------------
+
+# -------------------
+# DEATH MESSAGES
+
+death.attack.eventHorizon=%s был кремирован кавушем
+death.attack.irisDeath=%s расплющился об диафрагму
+death.attack.wrongSide=%s вошел в врата не с той стороны
+death.attack.unstableEventHorizon=%s didn't make it to the other side
+
+death.attack.zatHit=%s был подвергнут электролизу
+death.attack.staffHit=%s был расплавлен с помощью посоха Гоа'улдов
+
+# -------------------
+
+# -------------------
+# GLYPHS
+
+# RINGS
+# Ori Glyphs
+glyph.jsg.transportrings.ori.alpha=Alpha
+glyph.jsg.transportrings.ori.beta=Beta
+glyph.jsg.transportrings.ori.gamma=Gamma
+glyph.jsg.transportrings.ori.delta=Delta
+glyph.jsg.transportrings.ori.omega=Omega
+glyph.jsg.transportrings.ori.origin=Origin
+
+# Goa'uld Glyphs
+glyph.jsg.transportrings.goauld.amun=Амон
+glyph.jsg.transportrings.goauld.serket=Серкет
+glyph.jsg.transportrings.goauld.khepri=Хепри
+glyph.jsg.transportrings.goauld.ra=Ра
+glyph.jsg.transportrings.goauld.felluca=Феллуко
+glyph.jsg.transportrings.goauld.cobra=Cobra
+
+# STARGATE
+# Milkyway Glyphs
+glyph.jsg.milkyway.sculptor=Кобра
+glyph.jsg.milkyway.scorpius=Скорпиус
+glyph.jsg.milkyway.centaurus=Кентавр
+glyph.jsg.milkyway.monoceros=Единорог
+glyph.jsg.milkyway.point_of_origin=Точка отсчета
+glyph.jsg.milkyway.pegasus=Пегас
+glyph.jsg.milkyway.andromeda=Андромеда
+glyph.jsg.milkyway.serpens_caput=Змеи Капут
+glyph.jsg.milkyway.aries=Овен
+glyph.jsg.milkyway.libra=Весы
+glyph.jsg.milkyway.eridanus=Эридан
+glyph.jsg.milkyway.leo_minor=Лев Минор
+glyph.jsg.milkyway.hydra=Гидра
+glyph.jsg.milkyway.sagittarius=Стрелец
+glyph.jsg.milkyway.sextans=Секстаны
+glyph.jsg.milkyway.scutum=Щит
+glyph.jsg.milkyway.pisces=Рыбы
+glyph.jsg.milkyway.virgo=Дева
+glyph.jsg.milkyway.bootes=Волопас
+glyph.jsg.milkyway.auriga=Аурига
+glyph.jsg.milkyway.corona_australis=Корона Юга
+glyph.jsg.milkyway.gemini=Близнецы
+glyph.jsg.milkyway.leo=Лео
+glyph.jsg.milkyway.cetus=Цетус
+glyph.jsg.milkyway.triangulum=Треугольник
+glyph.jsg.milkyway.aquarius=Водолей
+glyph.jsg.milkyway.microscopium=Микроскоп
+glyph.jsg.milkyway.equuleus=Равновесие
+glyph.jsg.milkyway.crater=Кратер
+glyph.jsg.milkyway.perseus=Персей
+glyph.jsg.milkyway.cancer=Рак
+glyph.jsg.milkyway.norma=Норма
+glyph.jsg.milkyway.taurus=Телец
+glyph.jsg.milkyway.canis_minor=Малый Пес
+glyph.jsg.milkyway.capricornus=Козерог
+glyph.jsg.milkyway.lynx=Рысь
+glyph.jsg.milkyway.orion=Орион
+glyph.jsg.milkyway.piscis_austrinus=Восточные Рыбы
+glyph.jsg.milkyway.bright_red_button=Ярко-красная кнопка
+
+# Pegasus Glyphs
+glyph.jsg.pegasus.acjesis=Ахджэсис
+glyph.jsg.pegasus.lenchan=Ленчан
+glyph.jsg.pegasus.alura=Альура
+glyph.jsg.pegasus.ca_po=Ка По
+glyph.jsg.pegasus.laylox=ЛайЛокс
+glyph.jsg.pegasus.ecrumig=Экруминг
+glyph.jsg.pegasus.avoniv=Авонив
+glyph.jsg.pegasus.bydo=Бюдо
+glyph.jsg.pegasus.aaxel=Аксель
+glyph.jsg.pegasus.aldeni=Альдены
+glyph.jsg.pegasus.setas=Сетас
+glyph.jsg.pegasus.arami=Арами
+glyph.jsg.pegasus.danami=Данами
+glyph.jsg.pegasus.poco_re=Поко Ре
+glyph.jsg.pegasus.robandus=Робандос
+glyph.jsg.pegasus.recktic=Ректик
+glyph.jsg.pegasus.zamilloz=Замыллоз
+glyph.jsg.pegasus.subido=Сибидо
+glyph.jsg.pegasus.dawnre=Данрэ
+glyph.jsg.pegasus.salma=Сальма
+glyph.jsg.pegasus.hamlinto=Хамлето
+glyph.jsg.pegasus.elenami=Еленами
+glyph.jsg.pegasus.tahnan=Тахнан
+glyph.jsg.pegasus.zeo=Зео
+glyph.jsg.pegasus.roehi=Роекси
+glyph.jsg.pegasus.once_el=Онсе Эл
+glyph.jsg.pegasus.baselai=БасеЛай
+glyph.jsg.pegasus.sandovi=Сандови
+glyph.jsg.pegasus.illume=Иллуме
+glyph.jsg.pegasus.amiwill=Ативилль
+glyph.jsg.pegasus.sibbron=Сибброн
+glyph.jsg.pegasus.gilltin=Гильтин
+glyph.jsg.pegasus.abrin=Абрин
+glyph.jsg.pegasus.ramnon=Рамнон
+glyph.jsg.pegasus.olavii=Олавии
+glyph.jsg.pegasus.hacemill=Хасемилль
+glyph.jsg.pegasus.unknow1=Неизвестный 1
+glyph.jsg.pegasus.unknow2=Неизвестный 2
+
+# Universe Glyphs
+glyph.jsg.universe.g1=Глиф 1
+glyph.jsg.universe.g2=Глиф 2
+glyph.jsg.universe.g3=Глиф 3
+glyph.jsg.universe.g4=Глиф 4
+glyph.jsg.universe.g5=Глиф 5
+glyph.jsg.universe.g6=Глиф 6
+glyph.jsg.universe.g7=Глиф 7
+glyph.jsg.universe.g8=Глиф 8
+glyph.jsg.universe.g9=Глиф 9
+glyph.jsg.universe.g10=Глиф 10
+glyph.jsg.universe.g11=Глиф 11
+glyph.jsg.universe.g12=Глиф 12
+glyph.jsg.universe.g13=Глиф 13
+glyph.jsg.universe.g14=Глиф 14
+glyph.jsg.universe.g15=Глиф 15
+glyph.jsg.universe.g16=Глиф 16
+glyph.jsg.universe.g17=Глиф 17
+glyph.jsg.universe.g18=Глиф 18
+glyph.jsg.universe.g19=Глиф 19
+glyph.jsg.universe.g20=Глиф 20
+glyph.jsg.universe.g21=Глиф 21
+glyph.jsg.universe.g22=Глиф 22
+glyph.jsg.universe.g23=Глиф 23
+glyph.jsg.universe.g24=Глиф 24
+glyph.jsg.universe.g25=Глиф 25
+glyph.jsg.universe.g26=Глиф 26
+glyph.jsg.universe.g27=Глиф 27
+glyph.jsg.universe.g28=Глиф 28
+glyph.jsg.universe.g29=Глиф 29
+glyph.jsg.universe.g30=Глиф 30
+glyph.jsg.universe.g31=Глиф 31
+glyph.jsg.universe.g32=Глиф 32
+glyph.jsg.universe.g33=Глиф 33
+glyph.jsg.universe.g34=Глиф 34
+glyph.jsg.universe.g35=Глиф 35
+glyph.jsg.universe.g36=Глиф 36
+
+# -------------------
+
+# -------------------
+# GUI
+
+gui.upgrades=Улучшения
+gui.configuration=Конфигурация
+
+# dhd
+gui.dhd.fusion=Холодный Синтез
+gui.dhd.crystalStatus=Кристалл управления:
+gui.dhd.no_crystal=Кристалл отсутствует
+gui.dhd.crystal_ok=На месте
+gui.dhd.linkStatus=Подпространственное соединение:
+gui.dhd.linked=Соединено
+gui.dhd.not_linked=Не соединено
+gui.dhd.reactorStatus=Реактор холодного синтеза:
+gui.dhd.running=Работает
+gui.dhd.standby=В ожидании
+gui.dhd.no_fuel=Нет топлива
+
+# stargate
+gui.stargate.milky_way_address=Адрес Млечного Пути
+gui.stargate.pegasus_address=Адрес Пегаса
+gui.stargate.universe_address=Адрес Вселенной
+gui.stargate.iris_code=Код Диафрагмы
+gui.stargate.iris.help_title=Текущий режим:
+gui.stargate.iris.opened=Открыто
+gui.stargate.iris.closed=Закрыто
+gui.stargate.iris.auto=Автоматически
+gui.stargate.iris.oc=OC
+gui.stargate.iris.dialer=Портативное Устройство Древних
+gui.stargate.iris.opened_help=Диафрагма всегда открыта
+gui.stargate.iris.closed_help=Диафрагма всегда закрыта
+gui.stargate.iris.auto_help=Диафрагма автоматически закрывается при входящем соединении,
+gui.stargate.iris.auto1_help=но может быть открыта с помощью GDO при введении указанного здесь кода
+gui.stargate.iris.oc_help=Диафрагма управляется с помощью Open Computers
+gui.stargate.iris.dialer_help=Диафрагма управляется с помощью Портативное Устройство Древних
+
+gui.stargate.biome_overlay=Биомовое Наложение
+gui.stargate.biome_overlay.help=Вставьте блок для изменения вручную
+gui.stargate.biome_overlay.normal=Обычные
+gui.stargate.biome_overlay.frost=Замороженные
+gui.stargate.biome_overlay.mossy=Замшелые
+gui.stargate.biome_overlay.aged=Старые
+gui.stargate.biome_overlay.sooty=Пепельные
+gui.stargate.biome_overlay.sandy=Сэнди
+gui.stargate.capacitors=Конденсаторы
+gui.stargate.energyBuffer=Буфер Энергии
+
+gui.stargate.state.closed=Звездные врата закрыты!
+gui.stargate.state.opened=Время открытия:
+gui.stargate.state.gate_temp=Темп. Врат:
+gui.stargate.state.iris_temp=Темп. диафрагмы:
+
+gui.stargate.info=Информация о Вратах
+
+# zpmhub
+gui.zpmhub.inProgress=МНТ Движутся!
+gui.zpmhub.slideDown=Опустить МНТ
+gui.zpmhub.slideUp=Достать МНТ
+gui.zpmhub.alert=слата для МНТ Заблокированы
+
+# capacitor
+gui.capacitor.name=Конденсатор
+
+# rings
+gui.transportrings.energyBuffer=Буфер энергии
+gui.transportrings.ori_address=Ори адрес
+gui.transportrings.goauld_address=Гоаулд адрес
+gui.transportrings.ancient_address=Древний адрес
+gui.transportrings.parameters=Параметры
+
+# beamer
+gui.beamer.name=Лучевой Передатчик Врат
+gui.beamer.beamer_status=Статус передатчика:
+gui.beamer.beamer_ok=Передатчик видит Врата
+gui.beamer.beamer_link_status=Статус соединения:
+gui.beamer.beamer_link_ok=Передатчик соединён
+gui.beamer.role_status=Статус роли:
+gui.beamer.role_ok=Роль установлена
+gui.beamer.disabled_target=Целевой передатчик отключён
+gui.beamer.obstructed=Загорождён
+gui.beamer.obstructed_target=Загорождён (Целевой передатчик)
+gui.beamer.two_transmitters=Два излучателя
+gui.beamer.two_receivers=Два приёмника
+gui.beamer.mode_mismatch=Режимы не совпадают
+gui.beamer.no_beamer=Передатчик не найден
+gui.beamer.closed=Врата закрыты
+gui.beamer.incoming=Входящее соединение
+gui.beamer.disabled_by_logic=Отключен логикой
+gui.beamer.disabled_by_logic_target=Отключён логикой (Целевой передатчик)
+gui.beamer.running=Активен
+gui.beamer.no_crystal=Нет кристалла
+gui.beamer.no_power=Недостаточно Энергии
+gui.beamer.can_not_receive=не получается получить
+
+gui.beamer.transmit=Отправлять
+gui.beamer.receive=Получать
+gui.beamer.disabled=Отключен
+gui.beamer.activation=Активация передатчика:
+gui.beamer.auto=Автоматически
+gui.beamer.on_high=По сигналу редстоуна
+gui.beamer.on_low=Без сигнала
+gui.beamer.ignored=Игнорировать
+gui.beamer.activate_below=Активироваться ниже [%%]
+gui.beamer.deactivate_over=Активироваться выше [%%]
+gui.beamer.deactivate=Отключиться после:
+gui.beamer.after_inactivity=Неактивности [s]
+gui.beamer.save=Сохранить
+gui.beamer.invalid=Неверно
+
+# gdo
+gui.gdo.send_code=Введите код:
+gui.gdo.send_button=Отправить
+
+# assembler
+gui.assembler.name=Древний Зборщик
+
+# ancient sign
+gui.ancient_sign.edit=Редактировать древнюю надпись
+
+# -------------------
+
+# -------------------
+# KEY BINDINGS
+
+config.jsg.mode_scroll=Портативное устройство - Прокрутка режимов
+config.jsg.mode_up=Портативное устройство - Прокрутка режимов вверх
+config.jsg.mode_down=Портативное устройство - Прокрутка режимов вниз
+config.jsg.address_scroll=Прокрутка адресов Портативного устройства/Блокнота
+config.jsg.address_up=Прокрутка адресов Портативного устройства/Блокнота вверх
+config.jsg.address_down=Прокрутка адресов Портативного устройства/Блокнота вниз
+config.jsg.address_edit=Открыть меню изменения адресов
+
+# -------------------
+
+# -------------------
+# SUBTITLES
+
+jsg.subtitle.dhd_milkyway_press=Нажат символ на DHD
+jsg.subtitle.dhd_milkyway_press_brb=Нажата BRB Наборного устройства
+jsg.subtitle.gate_milkyway_open=Червоточина открывается
+jsg.subtitle.gate_milkyway_close=Червоточина закрывается
+jsg.subtitle.gate_milkyway_ring_roll=Кольцо Врат вращается
+jsg.subtitle.gate_milkyway_dial_fail=Вратам не удаётся подключиться
+jsg.subtitle.gate_orlin_broke=Звёздные Врата Сломались
+jsg.subtitle.gate_orlin_dial_fail=Вратам не удаётся подключиться
+jsg.subtitle.gate_milkyway_dial_fail_computer=Вратам не удаётся подключиться (OC)
+jsg.subtitle.gate_milkyway_incoming=Блокировка шеврона Врат
+jsg.subtitle.gate_milkyway_chevron_shut=Шеврон Врат задвигается
+jsg.subtitle.gate_milkyway_chevron_open=Шеврон Врат раздвигается
+
+jsg.subtitle.dhd_pegasus_press=Нажат символ на DHD
+jsg.subtitle.dhd_pegasus_press_brb=Нажата BBB Наборного устройства
+jsg.subtitle.gate_pegasus_open=Червоточина открывается
+jsg.subtitle.gate_pegasus_close=Червоточина закрывается
+jsg.subtitle.gate_pegasus_ring_roll=Кольцо Врат вращается
+jsg.subtitle.gate_pegasus_dial_fail=Вратам не удаётся подключиться
+jsg.subtitle.gate_pegasus_dial_fail_computer=Вратам не удаётся подключиться (OC)
+jsg.subtitle.gate_pegasus_incoming=Блокировка шеврона Врат
+jsg.subtitle.gate_pegasus_chevron_shut=Шеврон Врат задвигается
+jsg.subtitle.gate_pegasus_chevron_open=Шеврон Врат раздвигается
+
+jsg.subtitle.gate_orlin_dial=Врата Орлина набираются
+
+jsg.subtitle.gate_universe_dial_start=Врата Вселенной активируются
+jsg.subtitle.gate_universe_roll=Врата Вселенной вращаются
+jsg.subtitle.gate_universe_chevron_lock=Символ Врат Вселенной заблокирован
+jsg.subtitle.gate_universe_fail=Вратам Вселенной не удаётся подключиться
+jsg.subtitle.gate_universe_chevron_top_lock=Врата Вселенной вернулись на исходную позицию
+jsg.subtitle.gate_universe_open=Червоточина Врат Вселенной открывается
+jsg.subtitle.gate_universe_close=Червоточина Врат Вселенной открывается
+
+jsg.subtitle.wormhole_loop=Колебания горизонта событий
+jsg.subtitle.wormhole_go=Что-то прошло через врата
+jsg.subtitle.wormhole_flicker=Помехи червоточины Врат
+jsg.subtitle.rings_transport=Транспортные Кольца активированы
+jsg.subtitle.rings_controller_button=Нажата кнопка панели Колец
+
+jsg.subtitle.iris_hit=Что-то ударяется об Диафрагму
+jsg.subtitle.iris_opening=Диафрагма открывается
+jsg.subtitle.iris_closing=Диафрагма закрывается
+jsg.subtitle.shield_hit=Что-то ударилось об Щит
+jsg.subtitle.shield_opening=Щит закрылся
+jsg.subtitle.shield_closing=Щит открылся
+
+jsg.subtitle.beamer_start=Передатчик запускается
+jsg.subtitle.beamer_stop=Передатчик отключается
+jsg.subtitle.beamer_loop=Передатчик передаёт
+jsg.subtitle.page_flip=Шелестание страницы
+jsg.subtitle.gdo_button_beep=Нажата кнопка GDO
+jsg.subtitle.universe_dialer_beep=Портативное Устройство начало набор
+jsg.subtitle.universe_dialer_change_mode=Портативное Устройство сменило режим
+jsg.subtitle.universe_dialer_connect=Портативное Устройство подключилось
+
+jsg.subtitle.item_zat_shoot=Zat'nik'tel вистрель
+jsg.subtitle.item_staff_shoot=вистрель из посоха Гоаулда
+
+jsg.subtitle.destiny_countdown_start=Обратный отсчет судьбы начался!
+jsg.subtitle.destiny_countdown_stop=Обратный отсчет судьбы достиг нуля
+jsg.subtitle.destiny_countdown_one_minute=Осталась одна минута обратного отсчета судьбы
+
+# -------------------
+
+# -------------------
+# OTHER
+
+# orlin chat message
+chat.orlins.energyStored=Энергии накоплено: %s RF (Необходимо: %s RF, %s сек)
+
+# -------------------
+
+# -------------------
+# MAIN MENU
+
+menu.about=О JSG
+menu.updater.download=Скачать
+menu.updater.close=Закрыт
+menu.ram.help=Help
+
+# tips
+menu.nether_gate=TIP: If you go into Nether, do not forget to save Nether's gate address!
+menu.energy=TIP: If you plug cables for gate into multiple gate's blocks, the gate will charge faster!
+menu.dhd=TIP: Do not forget that DHDs can be upgraded with Capacity and Efficiency upgrades!
+menu.gdo=TIP: If you install iris on your gate, do not forget to sometimes check it's durability!
+
+# -------------------

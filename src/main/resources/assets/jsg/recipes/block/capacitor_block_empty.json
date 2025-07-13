@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FRF",
+		"RIR",
+		"ORO"
+	],
+	
+	"key": {
+		"O": {
+			"item": "jsg:naquadah_block"
+		},
+	
+		"F": {
+			"item": "jsg:naquadah_alloy"
+		},
+		
+		"I": {
+			"item": "jsg:circuit_control_naquadah"
+		},
+		
+		"R": {
+			"item": "jsg:crystal_red"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:capacitor_block_empty",
+		"count": 1
+	}
+}

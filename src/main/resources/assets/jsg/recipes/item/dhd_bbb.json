@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GGG",
+		"NRN",
+		" N "
+	],
+	
+	"key": {
+		"G": {
+			"item": "minecraft:glass_pane"
+		},
+
+		"N": {
+			"item": "jsg:naquadah_alloy"
+		},
+		
+		"R": {
+			"item": "jsg:crystal_blue"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:dhd_bbb",
+		"count": 1
+	}
+}

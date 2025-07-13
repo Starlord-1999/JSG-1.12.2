@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "forge:ore_dict",
+			"ore": "plateTrinium"
+		},
+		{
+			"item": "jsg:hammer"
+		}
+	],
+	"result": {
+		"item": "jsg:trinium_dust",
+		"count": 1
+	}
+}

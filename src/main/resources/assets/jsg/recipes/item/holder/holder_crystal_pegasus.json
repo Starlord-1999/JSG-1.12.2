@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"   ",
+		"N N",
+		"RNR"
+	],
+	
+	"key": {
+		"N": {
+			"item": "jsg:naquadah_alloy"
+		},
+		
+		"R": {
+			"item": "jsg:crystal_ender"
+		}
+	},
+	
+	"result": {
+		"item": "jsg:holder_crystal_pegasus",
+		"count": 1
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "jsg:stargate_orlin_member_block"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}],
+		"facing_vertical": {
+			"south": {},
+			"up": {},
+			"down": {}
+		},
+		
+		"orlin_variant": {
+			"south": { "y": 180 },
+			"west": { "y": 270 },
+			"north": {},
+			"east": { "y": 90 },
+			"up": {},
+			"down": {}
+		},
+		
+		"render_block": {
+			"true": {},
+			"false": {}
+		},
+
+		"orlin_broken": {
+			"true": {
+				"model": "jsg:stargate_orlin_member_block_broken"
+			},
+			"false": {}
+		}
+	}
+}

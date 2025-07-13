@@ -1,0 +1,15 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "jsg:naquadah_ore",
+		"textures": {
+			"normal": "minecraft:blocks/stone",
+			"particle": "minecraft:blocks/stone",
+			"overlay": "jsg:blocks/ore/naquadah_ore"
+		}
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}

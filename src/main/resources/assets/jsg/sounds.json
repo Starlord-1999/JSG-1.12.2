@@ -1,0 +1,571 @@
+{
+  "dhd_milkyway_press": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.dhd_milkyway_press",
+    "sounds": [
+      "jsg:dhd/dhd_milkyway_press_1",
+      "jsg:dhd/dhd_milkyway_press_2",
+      "jsg:dhd/dhd_milkyway_press_3",
+      "jsg:dhd/dhd_milkyway_press_4",
+      "jsg:dhd/dhd_milkyway_press_5",
+      "jsg:dhd/dhd_milkyway_press_6",
+      "jsg:dhd/dhd_milkyway_press_7"
+    ]
+  },
+  "dhd_pegasus_press": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.dhd_pegasus_press",
+    "sounds": [
+      "jsg:dhd/dhd_pegasus_press_1",
+      "jsg:dhd/dhd_pegasus_press_2",
+      "jsg:dhd/dhd_pegasus_press_3",
+      "jsg:dhd/dhd_pegasus_press_4",
+      "jsg:dhd/dhd_pegasus_press_5"
+    ]
+  },
+  "dhd_milkyway_press_brb": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.dhd_milkyway_press_brb",
+    "sounds": [
+      "jsg:dhd/dhd_milkyway_press_brb"
+    ]
+  },
+  "dhd_pegasus_press_brb": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.dhd_pegasus_press_brb",
+    "sounds": [
+      "jsg:dhd/dhd_pegasus_press_brb"
+    ]
+  },
+  "gate_milkyway_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_open",
+    "sounds": [
+      "jsg:gate/gate_milkyway_open"
+    ]
+  },
+  "gate_pegasus_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_open",
+    "sounds": [
+      "jsg:gate/pegasus/gate_pegasus_open"
+    ]
+  },
+  "gate_nox_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_open",
+    "sounds": [
+      "jsg:gate/gate_nox_open"
+    ]
+  },
+  "gate_milkyway_close": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_close",
+    "sounds": [
+      "jsg:gate/gate_milkyway_close"
+    ]
+  },
+  "gate_milkyway_ring_roll_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_ring_roll",
+    "sounds": [
+      "jsg:gate/gate_milkyway_ring_roll_start"
+    ]
+  },
+  "gate_milkyway_ring_roll": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_ring_roll",
+    "sounds": [
+      "jsg:gate/gate_milkyway_ring_roll"
+    ]
+  },
+  "gate_pegasus_ring_roll": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_ring_roll",
+    "sounds": [
+      "jsg:gate/pegasus/gate_pegasus_ring_roll"
+    ]
+  },
+  "gate_pegasus_ring_roll_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_ring_roll",
+    "sounds": [
+      "jsg:gate/pegasus/gate_pegasus_ring_roll_start"
+    ]
+  },
+  "gate_milkyway_dial_fail": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_dial_fail",
+    "sounds": [
+      "jsg:gate/gate_milkyway_dial_fail"
+    ]
+  },
+  "gate_milkyway_dial_fail_computer": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_dial_fail_computer",
+    "sounds": [
+      "jsg:gate/gate_milkyway_dial_fail_computer"
+    ]
+  },
+  "gate_pegasus_dial_fail": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_dial_fail",
+    "sounds": [
+      "jsg:gate/pegasus/gate_pegasus_dial_fail"
+    ]
+  },
+  "gate_milkyway_incoming": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_incoming",
+    "sounds": [
+      "jsg:gate/gate_milkyway_incoming"
+    ]
+  },
+  "gate_pegasus_incoming": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_incoming",
+    "sounds": [
+      "jsg:gate/pegasus/gate_pegasus_incoming"
+    ]
+  },
+  "wormhole_loop": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.wormhole_loop",
+    "sounds": [
+      "jsg:eh/wormhole_loop"
+    ]
+  },
+  "wormhole_go": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.wormhole_go",
+    "sounds": [
+      "jsg:eh/eh_go_1",
+      "jsg:eh/eh_go_2",
+      "jsg:eh/eh_go_3",
+      "jsg:eh/eh_go_4",
+      "jsg:eh/eh_go_5",
+      "jsg:eh/eh_go_6",
+      "jsg:eh/eh_go_7",
+      "jsg:eh/eh_go_8"
+    ]
+  },
+  "wormhole_flicker": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.wormhole_flicker",
+    "sounds": [
+      "jsg:eh/wormhole_flicker"
+    ]
+  },
+  "iris_hit": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.iris_hit",
+    "sounds": [
+      "jsg:iris/iris_hit_1",
+      "jsg:iris/iris_hit_2",
+      "jsg:iris/iris_hit_3"
+    ]
+  },
+  "iris_opening": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.iris_opening",
+    "sounds": [
+      "jsg:iris/iris_opening"
+    ]
+  },
+  "iris_closing": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.iris_closing",
+    "sounds": [
+      "jsg:iris/iris_closing"
+    ]
+  },
+  "shield_hit": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.shield_hit",
+    "sounds": [
+      "jsg:shield/shield_hit_1",
+      "jsg:shield/shield_hit_2",
+      "jsg:shield/shield_hit_3"
+    ]
+  },
+  "shield_opening": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.shield_opening",
+    "sounds": [
+      "jsg:shield/shield_opening"
+    ]
+  },
+  "shield_closing": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.shield_closing",
+    "sounds": [
+      "jsg:shield/shield_closing"
+    ]
+  },
+  "rings_transport": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.rings_transport",
+    "sounds": [
+      "jsg:transportrings/rings_transport"
+    ]
+  },
+  "rings_controller_goauld_button": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.rings_controller_button",
+    "sounds": [
+      "jsg:transportrings/goauld/rings_controller_button1",
+      "jsg:transportrings/goauld/rings_controller_button2",
+      "jsg:transportrings/goauld/rings_controller_button3"
+    ]
+  },
+  "rings_controller_goauld_button_final": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.rings_controller_button",
+    "sounds": [
+      "jsg:transportrings/goauld/rings_controller_button_final"
+    ]
+  },
+  "gate_milkyway_chevron_shut": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_chevron_shut",
+    "sounds": [
+      "jsg:gate/chevron/gate_milkyway_chevron_shut_1",
+      "jsg:gate/chevron/gate_milkyway_chevron_shut_2",
+      "jsg:gate/chevron/gate_milkyway_chevron_shut_3"
+    ]
+  },
+  "gate_milkyway_chevron_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_milkyway_chevron_open",
+    "sounds": [
+      "jsg:gate/chevron/gate_milkyway_chevron_open_1",
+      "jsg:gate/chevron/gate_milkyway_chevron_open_2",
+      "jsg:gate/chevron/gate_milkyway_chevron_open_3"
+    ]
+  },
+  "gate_pegasus_chevron_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_pegasus_chevron_open",
+    "sounds": [
+      "jsg:gate/chevron/gate_pegasus_chevron_open_1",
+      "jsg:gate/chevron/gate_pegasus_chevron_open_2",
+      "jsg:gate/chevron/gate_pegasus_chevron_open_3"
+    ]
+  },
+  "gate_orlin_dial": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_orlin_dial",
+    "sounds": [
+      "jsg:gate/orlin/gate_orlin_dial"
+    ]
+  },
+  "gate_orlin_dial_fail": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_orlin_dial_fail",
+    "sounds": [
+      "jsg:gate/orlin/gate_orlin_dial_fail"
+    ]
+  },
+  "gate_orlin_broke": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_orlin_broke",
+    "sounds": [
+      "jsg:gate/orlin/gate_orlin_broke"
+    ]
+  },
+  "gate_universe_dial_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_dial_start",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_dial_start"
+    ]
+  },
+  "gate_universe_roll": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_roll",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_roll"
+    ]
+  },
+  "gate_universe_roll_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_roll",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_roll_start"
+    ]
+  },
+  "gate_universe_chevron_lock": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_chevron_lock",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_chevron_lock"
+    ]
+  },
+  "gate_universe_fail": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_fail",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_fail"
+    ]
+  },
+  "gate_universe_chevron_top_lock": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_chevron_top_lock",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_chevron_top_lock"
+    ]
+  },
+  "gate_universe_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_open",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_open"
+    ]
+  },
+  "gate_universe_close": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gate_universe_close",
+    "sounds": [
+      "jsg:gate/universe/gate_universe_close"
+    ]
+  },
+  "beamer_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.beamer_start",
+    "sounds": [
+      "jsg:beamer/beamer_start"
+    ]
+  },
+  "beamer_stop": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.beamer_stop",
+    "sounds": [
+      "jsg:beamer/beamer_stop"
+    ]
+  },
+  "beamer_loop": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.beamer_loop",
+    "sounds": [
+      "jsg:beamer/beamer_loop"
+    ]
+  },
+  "page_flip": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.page_flip",
+    "sounds": [
+      "jsg:misc/page_flip"
+    ]
+  },
+  "mainmenu_music": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/pegasus_theme",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "jsg:gui/mainmenu/destiny_theme",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "jsg:gui/mainmenu/origin_theme",
+        "stream": true,
+        "preload": true
+      },
+      {
+        "name": "jsg:gui/mainmenu/stargate_theme_1",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "mainmenu_intro": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.mainmenu_intro",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/intro",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "loading_music": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/loading_music",
+        "preload": true
+      }
+    ]
+  },
+  "gui_send_code_button_press": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.gdo_button_beep",
+    "sounds": [
+      "jsg:misc/button_press",
+      "jsg:misc/button_press2",
+      "jsg:misc/button_press3",
+      "jsg:misc/button_press4"
+    ]
+  },
+  "universe_dialer_start_dial": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.universe_dialer_beep",
+    "sounds": [
+      "jsg:misc/dialer/button_startdial_universe"
+    ]
+  },
+  "universe_dialer_mode_change": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.universe_dialer_change_mode",
+    "sounds": [
+      "jsg:misc/dialer/button_changemode_universe"
+    ]
+  },
+  "universe_dialer_connect": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.universe_dialer_connect",
+    "sounds": [
+      "jsg:misc/dialer/button_connect_universe"
+    ]
+  },
+  "universe_dialer_error": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.universe_dialer_error",
+    "sounds": [
+      "jsg:misc/dialer/button_error_universe"
+    ]
+  },
+  "item_zat_shoot": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.item_zat_shoot",
+    "sounds": [
+      "jsg:item/zat/shoot",
+      "jsg:item/zat/shoot2",
+      "jsg:item/zat/shoot3",
+      "jsg:item/zat/shoot4",
+      "jsg:item/zat/shoot5",
+      "jsg:item/zat/shoot6",
+      "jsg:item/zat/shoot7",
+      "jsg:item/zat/shoot8",
+      "jsg:item/zat/shoot9"
+    ]
+  },
+  "item_staff_shoot": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.item_staff_shoot",
+    "sounds": [
+      "jsg:item/staff/shoot"
+    ]
+  },
+  "platform_ships_open": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.platform_ships_open",
+    "sounds": [
+      "jsg:transportrings/platform/platform_ships_open"
+    ]
+  },
+  "platform_ships_close": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.platform_ships_close",
+    "sounds": [
+      "jsg:transportrings/platform/platform_ships_close"
+    ]
+  },
+  "destiny_countdown_start": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_countdown_start",
+    "sounds": [
+      "jsg:misc/destiny/countdown_start"
+    ]
+  },
+  "destiny_countdown_stop": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_countdown_stop",
+    "sounds": [
+      "jsg:misc/destiny/countdown_stop"
+    ]
+  },
+  "destiny_countdown_one_minute": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_countdown_one_minute",
+    "sounds": [
+      "jsg:misc/destiny/countdown_one_minute"
+    ]
+  },
+  "destiny_vent": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_vent",
+    "sounds": [
+      "jsg:misc/destiny/vent"
+    ]
+  },
+  "destiny_ftl_in": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_ftl_in",
+    "sounds": [
+      "jsg:misc/destiny/ftl_in"
+    ]
+  },
+  "destiny_ftl_out": {
+    "category": "ambient",
+    "subtitle": "jsg.subtitle.destiny_ftl_out",
+    "sounds": [
+      "jsg:misc/destiny/ftl_out"
+    ]
+  },
+  "record_destiny": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/destiny_theme",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "record_atlantis": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/pegasus_theme",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "record_origins": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/origin_theme",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "record_sgc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/stargate_theme_1",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "record_elevator": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "jsg:gui/mainmenu/loading_music",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  }
+}
